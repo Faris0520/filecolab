@@ -1,0 +1,201 @@
+CustomerID,Age,Gender,Education,MonthlyIncomeUSD,ProductCategory,LastPurchaseAmountUSD,SignupDate,Active,Notes
+ID1095,18.0,Other,High School,4987.77,Grocery,527.49,2019-05-04,No,email bounce
+ID1015,25.0,Female,Bachelor,15589.38,Books,1545.92,2019-02-09,No,no issues
+ID1030,25.0,Male,Bachelor,3688.88,Grocery,305.25,2024-03-25,No,
+ID1158,20.0,Male,Diploma,2189.54,Grocery,253.28,2025-06-25,Yes,
+ID1128,30.0,Other,Bachelor,1159.85,Electronics,88.98,2023-04-15,No,email bounce
+ID1115,32.0,Other,High School,2641.86,Grocery,366.34,2023-11-23,No,no issues
+ID1069,24.0,Male,High School,1040.4,Books,0.0,2023-08-26,No,
+ID1170,22.0,Female,Diploma,8121.34,Grocery,797.75,2023-12-05,No,frequent buyer
+ID1174,,Female,Bachelor,4573.27,Grocery,434.42,2020-11-25,No,vip
+ID1045,24.0,Male,Bachelor,3557.93,Home,409.6,2024-04-23,Yes,email bounce
+ID1066,29.0,Other,Diploma,2831.48,Books,282.23,2019-07-09,No,
+ID1182,21.0,Male,Master,2663.5,Home,239.47,2023-02-01,No,email bounce
+ID1165,33.0,Female,Diploma,1354.97,Grocery,191.61,2025-03-19,Yes,
+ID1078,30.0,Female,Diploma,6898.59,Clothing,568.16,2021-06-14,No,no issues
+ID1186,33.0,Male,Master,2482.67,Grocery,247.27,2022-08-20,No,
+ID1177,41.0,Male,Bachelor,,Books,330.05,2025-05-04,Yes,email bounce
+ID1056,23.0,Male,Bachelor,4329.27,Books,483.52,2024-03-14,Yes,
+ID1152,24.0,Male,Bachelor,6064.96,Electronics,541.82,2022-02-17,No,email bounce
+ID1082,41.0,Female,Bachelor,5750.64,Clothing,544.52,2019-10-16,No,requested refund
+ID1068,32.0,Other,Master,4241.67,Books,376.73,2021-09-07,No,
+ID1124,34.0,Male,Bachelor,4588.32,Electronics,515.07,2019-05-22,Yes,
+ID1016,21.0,Female,Bachelor,4672.97,Clothing,428.81,2025-03-17,Yes,email bounce
+ID1148,,Female,Master,4224.01,Grocery,404.64,2020-09-24,No,frequent buyer
+ID1093,27.0,Female,Diploma,12838.12,Clothing,1277.94,2025-02-26,Yes,frequent buyer
+ID1065,40.0,Male,High School,7129.0,Grocery,0.0,2022-05-26,No,frequent buyer
+ID1060,26.0,Female,High School,2504.64,Home,273.72,2020-08-10,No,vip
+ID1084,23.0,Male,Diploma,1207.22,Electronics,182.92,2025-05-08,Yes,
+ID1067,38.0,Male,High School,3590.91,Grocery,424.68,2022-12-11,Yes,frequent buyer
+ID1125,47.0,Male,High School,6344.45,Home,594.48,2020-05-15,No,requested refund
+ID1132,21.0,Female,Master,1999.44,Electronics,199.27,2024-03-19,No,frequent buyer
+ID1009,34.0,Female,Bachelor,3730.53,Grocery,342.97,2021-04-27,Yes,
+ID1018,22.0,Female,High School,11544.44,Electronics,1201.31,2020-09-04,No,vip
+ID1055,,Male,Bachelor,3588.46,Grocery,385.5,2022-10-19,No,email bounce
+ID1075,36.0,Other,Master,4705.43,Grocery,466.75,2022-08-30,No,
+ID1150,32.0,Female,Diploma,4476.6,Electronics,459.91,2021-02-25,No,vip
+ID1104,,Female,Bachelor,2427.58,Clothing,189.08,2024-01-13,Yes,
+ID1135,42.0,Male,Bachelor,1752.28,Grocery,128.22,2019-09-27,No,requested refund
+ID1137,27.0,Female,Bachelor,1964.58,Electronics,171.67,2023-10-17,No,requested refund
+ID1164,37.0,Male,None,5409.01,Books,579.59,2025-07-09,No,requested refund
+ID1076,30.0,Female,Master,5080.73,Grocery,562.73,2022-01-03,No,
+ID1079,,Male,High School,2197.58,Clothing,229.05,2025-05-09,Yes,no issues
+ID1197,31.0,Male,Bachelor,2976.57,Grocery,282.5,2019-12-09,No,no issues
+ID1038,19.0,Other,Diploma,1724.17,Electronics,191.77,2023-10-25,No,frequent buyer
+ID1024,25.0,Female,Bachelor,3300.96,Electronics,0.0,2023-11-17,No,
+ID1122,41.0,Male,Bachelor,2664.17,Clothing,285.04,2023-01-06,No,requested refund
+ID1195,33.0,Male,Bachelor,2594.83,Grocery,324.81,2020-12-28,No,requested refund
+ID1029,27.0,Female,Bachelor,3830.24,Home,449.38,2020-07-28,No,requested refund
+ID1019,18.0,Male,Diploma,2758.49,Home,351.92,2024-03-30,Yes,vip
+ID1143,31.0,Male,Diploma,4370.79,Grocery,487.96,2025-05-20,No,requested refund
+ID1086,37.0,Female,High School,1961.75,Clothing,156.28,2021-12-25,No,frequent buyer
+ID1114,28.0,Female,Master,4069.77,Clothing,0.0,2020-01-28,No,vip
+ID1173,32.0,Male,High School,2602.8,Grocery,291.23,2022-07-02,No,email bounce
+ID1005,28.0,Female,Bachelor,5372.92,Electronics,600.11,2022-02-01,No,requested refund
+ID1126,22.0,Female,High School,1987.9,Grocery,213.52,2021-04-19,Yes,no issues
+ID1117,20.0,Female,Master,2171.12,Electronics,273.89,2025-03-07,No,no issues
+ID1073,42.0,Male,High School,3924.48,Clothing,385.92,2021-07-31,No,frequent buyer
+ID1140,31.0,Female,Bachelor,7328.27,Grocery,740.96,2019-03-24,No,frequent buyer
+ID1098,30.0,Female,High School,105920.64,Books,10588.41,2021-05-04,No,
+ID1172,29.0,Female,High School,3885.93,Grocery,449.13,2023-07-14,No,vip
+ID1096,32.0,Other,Bachelor,2998.11,Clothing,284.38,2024-08-10,No,email bounce
+ID1169,23.0,Male,High School,1472.95,Clothing,0.0,2021-09-14,No,
+ID1097,32.0,Female,Bachelor,2017.91,Home,236.14,2021-08-25,No,
+ID1031,44.0,Male,High School,2708.79,Grocery,338.15,2021-10-09,No,email bounce
+ID1012,31.0,Male,Master,1327.11,Grocery,0.0,2019-10-10,Yes,
+ID1035,20.0,Female,Diploma,2604.36,Home,202.32,2021-07-12,No,
+ID1119,36.0,Other,High School,5813.12,Clothing,608.79,2020-10-07,No,no issues
+ID1042,29.0,Female,Master,1500.51,Clothing,73.41,2024-12-18,Yes,vip
+ID1189,18.0,Male,Bachelor,2415.56,Electronics,319.68,2024-08-06,No,vip
+ID1090,30.0,Male,High School,1810.76,Clothing,146.9,2019-06-05,No,
+ID1136,23.0,Male,Diploma,410.22,Clothing,114.93,2019-06-03,No,requested refund
+ID1051,26.0,Male,Bachelor,4841.28,Electronics,483.88,2020-10-07,No,no issues
+ID1127,25.0,Female,High School,3526.32,Books,266.76,2023-08-10,No,frequent buyer
+ID1162,39.0,Female,Bachelor,2892.11,Books,304.84,2021-03-31,No,email bounce
+ID1041,31.0,Female,High School,6579.09,Electronics,686.88,2023-04-10,Yes,no issues
+ID1118,39.0,Male,High School,13624.11,Clothing,1344.91,2022-02-12,No,vip
+ID1113,49.0,Male,Bachelor,6212.31,Grocery,612.91,2020-07-04,No,
+ID1026,20.0,Male,Diploma,1201.63,Grocery,143.69,2023-03-28,Yes,
+ID1139,20.0,Male,Bachelor,4068.59,Electronics,478.62,2024-05-21,Yes,
+ID1100,18.0,Female,High School,6670.38,Grocery,665.2,2025-02-16,Yes,no issues
+ID1111,29.0,Male,Diploma,1637.67,Clothing,145.32,2024-07-12,Yes,vip
+ID1002,35.0,Female,Bachelor,1813.32,Books,217.62,2020-07-12,No,
+ID1077,27.0,Female,Bachelor,3406.3,Electronics,369.4,2025-05-15,Yes,requested refund
+ID1046,26.0,Male,Bachelor,5405.59,Clothing,534.44,2021-07-18,No,email bounce
+ID1187,29.0,Male,High School,3575.47,Clothing,324.22,2022-07-23,No,frequent buyer
+ID1191,36.0,Female,High School,976.55,Books,116.95,2022-09-09,No,email bounce
+ID1085,25.0,Female,Bachelor,1152.87,Electronics,5.13,2024-05-07,Yes,
+ID1161,36.0,Male,None,4210.84,Home,425.24,2022-05-11,No,email bounce
+ID1036,31.0,Male,Diploma,4469.41,Books,435.31,2022-01-30,No,
+ID1190,26.0,Male,Bachelor,3061.15,Books,256.5,2024-04-12,No,email bounce
+ID1061,28.0,Other,High School,5636.85,Books,572.02,2020-04-20,No,frequent buyer
+ID1022,30.0,Female,Diploma,4768.13,Electronics,440.18,2025-04-26,Yes,vip
+ID1141,40.0,Female,High School,1679.21,Books,125.11,2022-12-20,No,vip
+ID1101,26.0,Female,High School,8758.99,Grocery,825.14,2023-05-22,No,email bounce
+ID1033,21.0,Male,Bachelor,3218.95,Grocery,456.88,2019-09-26,No,frequent buyer
+ID1011,26.0,Female,Master,4692.79,Grocery,464.31,2019-09-16,No,email bounce
+ID1194,31.0,Male,Bachelor,1193.41,Books,123.42,2020-04-26,No,
+ID1159,35.0,Male,High School,4456.61,Books,335.0,2024-11-06,Yes,requested refund
+ID1006,42.0,Male,Bachelor,4168.61,Electronics,474.06,2022-05-18,No,vip
+ID1027,33.0,Male,None,5987.59,Grocery,635.26,2024-04-14,Yes,vip
+ID1120,36.0,Female,Bachelor,2000.4,Home,306.49,2025-03-16,No,frequent buyer
+ID1004,28.0,Male,Diploma,3011.85,Books,218.36,2025-04-04,No,email bounce
+ID1032,29.0,Female,Bachelor,10831.2,Electronics,985.92,2020-10-31,No,frequent buyer
+ID1142,18.0,Male,Master,1238.35,Clothing,114.9,2022-07-22,No,
+ID1145,36.0,Female,Master,3977.87,Clothing,337.53,2025-01-29,Yes,email bounce
+ID1109,29.0,Female,Bachelor,2993.81,Electronics,192.91,2022-08-29,No,no issues
+ID1144,32.0,Female,Bachelor,3824.5,Electronics,392.76,2021-09-06,No,no issues
+ID1010,26.0,Female,High School,1400.45,Clothing,0.0,2025-08-31,Yes,no issues
+ID1062,21.0,Male,High School,1425.21,Grocery,158.78,2023-12-27,No,no issues
+ID1112,30.0,Male,Master,5338.58,Grocery,549.61,2020-04-04,No,email bounce
+ID1146,20.0,Female,Bachelor,5796.26,Books,609.46,2023-07-18,No,vip
+ID1166,36.0,Male,Bachelor,3360.87,Grocery,367.8,2019-02-10,No,requested refund
+ID1000,33.0,Female,High School,8755.96,Grocery,887.69,2020-04-29,No,
+ID1198,30.0,Male,High School,4887.09,Grocery,444.83,2022-12-18,No,
+ID1153,31.0,Male,Bachelor,8301.43,Clothing,884.04,2021-07-22,No,
+ID1070,32.0,Female,Bachelor,,Electronics,368.97,2023-09-12,Yes,email bounce
+ID1123,18.0,Male,High School,4700.62,Grocery,550.02,2022-10-09,No,vip
+ID1064,36.0,Female,High School,1771.67,Clothing,217.61,2025-01-12,No,
+ID1044,18.0,Female,Bachelor,6272.38,Electronics,648.05,2025-02-21,Yes,requested refund
+ID1163,23.0,Male,Bachelor,3318.34,Electronics,347.8,2023-10-29,No,no issues
+ID1028,25.0,Female,Master,2680.79,Grocery,246.45,2022-02-26,No,requested refund
+ID1040,35.0,Male,Diploma,1149.92,Books,65.32,2019-09-04,No,frequent buyer
+ID1108,32.0,Male,Bachelor,2459.19,Grocery,288.93,2025-03-24,Yes,
+ID1155,24.0,Female,Master,4418.29,Clothing,471.02,2024-01-27,Yes,requested refund
+ID1156,44.0,Female,Bachelor,2651.75,Clothing,342.4,2019-10-13,No,no issues
+ID1025,30.0,Male,High School,2230.34,Electronics,171.64,2023-12-16,No,email bounce
+ID1023,18.0,Male,Bachelor,1330.97,Grocery,98.01,2025-08-10,Yes,no issues
+ID1184,28.0,Male,Bachelor,1117.89,Home,148.5,2020-10-22,No,requested refund
+ID1147,19.0,Female,High School,4264.93,Books,464.97,2022-10-30,No,vip
+ID1081,32.0,Female,Master,745.76,Grocery,73.66,2021-07-19,No,
+ID1039,31.0,Male,High School,5784.05,Books,646.79,2023-05-14,No,requested refund
+ID1168,28.0,Female,Bachelor,5203.84,Grocery,531.96,2019-03-09,No,
+ID1047,38.0,Female,High School,4799.98,Electronics,458.24,2019-08-15,No,vip
+ID1094,26.0,Male,Bachelor,1742.06,Books,172.85,2023-08-11,Yes,no issues
+ID1154,32.0,Male,Bachelor,2243.19,Clothing,262.28,2022-12-31,No,frequent buyer
+ID1043,27.0,Other,Bachelor,2891.19,Books,340.77,2025-07-28,Yes,
+ID1138,36.0,Female,Diploma,6826.36,Home,0.0,2020-10-23,No,vip
+ID1003,42.0,Male,High School,4497.82,Home,426.83,2024-05-21,Yes,frequent buyer
+ID1105,33.0,Female,Diploma,2311.88,Grocery,249.4,2024-01-04,No,
+ID1053,34.0,Male,Diploma,3198.47,Grocery,347.54,2022-11-19,No,no issues
+ID1133,33.0,Female,Diploma,,Clothing,377.47,2019-10-08,No,
+ID1180,35.0,Male,Diploma,2961.19,Electronics,297.57,2020-05-08,No,no issues
+ID1178,27.0,Other,Bachelor,,Clothing,278.42,2021-11-24,No,no issues
+ID1185,35.0,Male,Bachelor,5908.69,Grocery,0.0,2022-09-10,No,frequent buyer
+ID1049,18.0,Male,Bachelor,6263.51,Clothing,560.95,2022-10-27,No,frequent buyer
+ID1080,28.0,Female,Bachelor,2438.79,Clothing,255.67,2023-08-02,No,frequent buyer
+ID1034,36.0,Female,High School,1300.36,Clothing,109.73,2022-07-07,No,
+ID1007,36.0,Male,High School,798.98,Grocery,0.0,2020-04-12,No,
+ID1110,18.0,Female,Bachelor,2646.86,Grocery,208.96,2021-08-06,No,frequent buyer
+ID1091,37.0,Male,High School,1762.74,Grocery,0.0,2021-12-06,No,frequent buyer
+ID1083,25.0,Male,Bachelor,3997.75,Grocery,459.5,2020-12-24,No,email bounce
+ID1176,30.0,Male,Bachelor,6840.11,Clothing,664.31,2023-08-21,Yes,
+ID1181,23.0,Female,High School,2597.67,Clothing,313.53,2023-05-05,No,
+ID1089,34.0,Male,Bachelor,2043.25,Clothing,206.07,2025-04-14,Yes,no issues
+ID1008,26.0,Female,Bachelor,2687.49,Clothing,240.62,2025-08-30,Yes,no issues
+ID1013,18.0,Male,High School,2051.05,Grocery,249.21,2023-07-08,No,vip
+ID1059,37.0,Female,Bachelor,3155.56,Clothing,309.72,2022-02-28,No,no issues
+ID1171,23.0,Female,Bachelor,3764.42,Grocery,0.0,2023-06-10,No,frequent buyer
+ID1131,30.0,Female,Diploma,1871.99,Books,200.87,2020-08-18,No,no issues
+ID1017,,Female,High School,1156.35,Books,0.0,2021-10-11,No,vip
+ID1072,29.0,Other,PhD,5573.78,Electronics,607.92,2025-06-12,No,vip
+ID1175,36.0,Female,Bachelor,3408.21,Electronics,322.94,2021-12-21,No,
+ID1134,22.0,Male,Bachelor,5024.23,Home,481.21,2020-02-28,No,vip
+ID1167,45.0,Female,High School,3495.19,Clothing,373.28,2023-09-28,No,email bounce
+ID1183,33.0,Male,Bachelor,3677.37,Grocery,382.91,2023-11-26,Yes,
+ID1063,20.0,Male,None,4472.89,Clothing,438.95,2021-09-12,No,no issues
+ID1054,38.0,Male,Diploma,5411.39,Grocery,595.72,2023-01-13,No,frequent buyer
+ID1107,31.0,Female,Bachelor,2278.9,Books,237.98,2020-06-16,No,no issues
+ID1050,32.0,Female,Bachelor,2522.29,Grocery,165.09,2022-12-28,No,frequent buyer
+ID1196,22.0,Male,Master,1583.27,Electronics,113.1,2021-10-28,No,no issues
+ID1058,32.0,Female,PhD,6519.88,Electronics,0.0,2021-09-08,No,email bounce
+ID1048,32.0,Female,Bachelor,7164.77,Books,757.28,2019-09-22,No,requested refund
+ID1088,25.0,Female,Bachelor,2765.44,Grocery,323.97,2021-07-24,No,frequent buyer
+ID1021,28.0,Male,Bachelor,3687.09,Clothing,400.01,2020-09-04,No,
+ID1057,27.0,Male,Diploma,2913.78,Grocery,307.43,2022-06-03,No,
+ID1160,22.0,Male,Bachelor,4256.16,Clothing,485.46,2023-08-05,Yes,requested refund
+ID1192,31.0,Male,Master,5138.13,Clothing,567.19,2021-11-24,No,frequent buyer
+ID1129,25.0,Other,Bachelor,1557.39,Clothing,171.44,2024-08-08,No,
+ID1037,18.0,Male,High School,4558.4,Grocery,403.52,2023-03-10,No,
+ID1157,,Female,High School,2008.28,Clothing,248.09,2019-09-22,No,frequent buyer
+ID1193,20.0,Female,Master,6330.99,Home,675.52,2021-09-03,No,no issues
+ID1001,28.0,Male,High School,8496.99,Home,801.22,2021-06-23,Yes,vip
+ID1052,24.0,Female,High School,1325.09,Electronics,113.03,2025-03-08,Yes,
+ID1149,32.0,Female,Bachelor,5085.63,Grocery,539.08,2023-03-12,No,frequent buyer
+ID1130,18.0,Female,Bachelor,5628.68,Clothing,532.76,2023-03-11,No,
+ID1151,32.0,Female,High School,5539.38,Electronics,544.07,2020-02-02,No,requested refund
+ID1103,23.0,Female,Diploma,3461.81,Clothing,387.65,2024-04-28,No,email bounce
+ID1099,28.0,Male,None,2223.49,Clothing,169.0,2020-10-01,No,frequent buyer
+ID1116,29.0,Male,Bachelor,2169.05,Electronics,156.28,2021-04-24,No,no issues
+ID1087,32.0,Male,Diploma,5331.38,Grocery,525.9,2020-04-27,No,
+ID1074,18.0,Female,Diploma,1473.64,Books,117.15,2019-12-04,No,
+ID1121,22.0,Female,Bachelor,3655.5,Clothing,399.98,2025-09-20,Yes,no issues
+ID1199,20.0,Male,Bachelor,5988.26,Clothing,637.95,2025-07-07,No,frequent buyer
+ID1020,41.0,Female,None,3506.46,Grocery,286.93,2020-11-18,No,vip
+ID1188,23.0,Female,Bachelor,4127.52,Grocery,493.06,2024-06-09,Yes,
+ID1071,42.0,Female,Bachelor,,Clothing,0.0,2019-02-10,No,vip
+ID1106,45.0,Female,Bachelor,4621.14,Clothing,420.66,2024-12-30,Yes,email bounce
+ID1014,18.0,Male,Diploma,7405.35,Grocery,679.0,2024-03-13,No,frequent buyer
+ID1092,24.0,Male,Bachelor,1037.91,Electronics,93.22,2024-05-12,No,frequent buyer
+ID1179,,Female,Diploma,4231.36,Electronics,340.07,2021-02-17,No,requested refund
+ID1102,27.0,Male,PhD,1291.03,Clothing,131.15,2020-03-17,No,
