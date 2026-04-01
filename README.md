@@ -6,9 +6,9 @@ Kumpulan/arsip file untuk **Google Colab (Jupyter Notebook)** dan dataset penduk
 
 ### Folder
 - `California Housing Price/` — notebook/materi terkait dataset California Housing.
-- `Data Mining/` — materi **Penambangan Data Semester 3**.
+- `Data Mining/` — dataset **Penambangan Data Semester 3**.
 - `Kesejahteraan Pekerja Indonesia/` — notebook/materi analisis dataset kesejahteraan pekerja Indonesia.
-- `Pembelajaran-Mesin/` — materi/pengerjaan terkait machine learning.
+- `Pembelajaran-Mesin/` — dataset **Pembelajaran Mesin Semester 4**.
 
 ## Catatan
 - Dataset `.csv` yang ada di repo ini bisa langsung dipakai di notebook.
