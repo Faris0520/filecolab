@@ -1,0 +1,301 @@
+Booking_ID,Tanggal_Checkin,Tipe_Kamar,Harga_Per_Malam,Jumlah_Malam,Channel_Booking,Customer_Type,Cancellation,Rating,Repeat_Booking,Total_Revenue,Weekend
+HTL0001,2026-01-01,Family,1579334,6,Website Hotel,Leisure,Tidak,4.7,Tidak,9476004,False
+HTL0002,2026-01-02,Standard,1599158,1,OTA,Business,Tidak,4.2,Tidak,1599158,False
+HTL0003,2026-01-03,Family,947839,1,OTA,Family,Tidak,4.5,Ya,947839,True
+HTL0004,2026-01-04,Family,559145,7,OTA,Leisure,Tidak,4.7,Ya,3914015,True
+HTL0005,2026-01-05,Suite,879385,6,OTA,Family,Ya,4.5,Ya,5276310,False
+HTL0006,2026-01-06,Standard,996142,7,OTA,Leisure,Tidak,3.8,Tidak,6972994,False
+HTL0007,2026-01-07,Standard,1400276,7,OTA,Business,Tidak,4.2,Ya,9801932,False
+HTL0008,2026-01-08,Deluxe,1240953,3,OTA,Family,Tidak,3.8,Tidak,3722859,False
+HTL0009,2026-01-09,Standard,1398631,4,OTA,Family,Tidak,5.0,Tidak,5594524,False
+HTL0010,2026-01-10,Deluxe,692397,3,Website Hotel,Business,Tidak,4.5,Tidak,2077191,True
+HTL0011,2026-01-11,Deluxe,487397,5,Website Hotel,Leisure,Tidak,5.0,Tidak,2436985,True
+HTL0012,2026-01-12,Standard,1399900,6,OTA,Family,Tidak,5.0,Tidak,8399400,False
+HTL0013,2026-01-13,Standard,770012,3,OTA,Business,Tidak,4.7,Tidak,2310036,False
+HTL0014,2026-01-14,Standard,1282400,4,Website Hotel,Leisure,Tidak,4.0,Tidak,5129600,False
+HTL0015,2026-01-15,Suite,1403786,4,OTA,Business,Tidak,4.1,Tidak,5615144,False
+HTL0016,2026-01-16,Standard,1027330,4,Website Hotel,Leisure,Tidak,3.6,Tidak,4109320,False
+HTL0017,2026-01-17,Family,1256905,4,Website Hotel,Family,Tidak,3.8,Tidak,5027620,True
+HTL0018,2026-01-18,Standard,1644236,3,OTA,Business,Tidak,3.8,Tidak,4932708,True
+HTL0019,2026-01-19,Deluxe,666195,1,Travel Agent,Business,Tidak,4.8,Ya,666195,False
+HTL0020,2026-01-20,Suite,722243,2,OTA,Family,Ya,3.6,Tidak,1444486,False
+HTL0021,2026-01-21,Standard,946041,6,OTA,Business,Tidak,4.1,Ya,5676246,False
+HTL0022,2026-01-22,Family,1636112,6,OTA,Business,Tidak,4.5,Tidak,9816672,False
+HTL0023,2026-01-23,Suite,717673,4,Website Hotel,Business,Tidak,4.7,Ya,2870692,False
+HTL0024,2026-01-24,Suite,1455386,4,OTA,Leisure,Tidak,3.7,Tidak,5821544,True
+HTL0025,2026-01-25,Family,823867,4,OTA,Leisure,Tidak,3.8,Tidak,3295468,True
+HTL0026,2026-01-26,Standard,1438254,7,OTA,Family,Tidak,4.3,Tidak,10067778,False
+HTL0027,2026-01-27,Deluxe,1038213,1,Travel Agent,Leisure,Tidak,4.3,Ya,1038213,False
+HTL0028,2026-01-28,Standard,1143294,7,Travel Agent,Family,Tidak,4.0,Tidak,8003058,False
+HTL0029,2026-01-29,Deluxe,1038493,4,Website Hotel,Leisure,Tidak,3.9,Tidak,4153972,False
+HTL0030,2026-01-30,Family,1718510,6,OTA,Business,Tidak,4.1,Tidak,10311060,False
+HTL0031,2026-01-31,Family,1726973,4,OTA,Business,Tidak,4.4,Ya,6907892,True
+HTL0032,2026-02-01,Deluxe,541257,3,OTA,Leisure,Tidak,3.6,Tidak,1623771,True
+HTL0033,2026-02-02,Deluxe,838094,3,OTA,Family,Tidak,4.3,Tidak,2514282,False
+HTL0034,2026-02-03,Standard,1725305,7,OTA,Family,Tidak,3.9,Tidak,12077135,False
+HTL0035,2026-02-04,Standard,1025278,5,Website Hotel,Leisure,Tidak,4.1,Tidak,5126390,False
+HTL0036,2026-02-05,Standard,643356,6,OTA,Family,Tidak,3.8,Ya,3860136,False
+HTL0037,2026-02-06,Standard,1707162,2,OTA,Business,Tidak,4.2,Ya,3414324,False
+HTL0038,2026-02-07,Suite,443684,7,OTA,Leisure,Tidak,3.7,Ya,3105788,True
+HTL0039,2026-02-08,Standard,1107658,3,OTA,Family,Tidak,4.7,Ya,3322974,True
+HTL0040,2026-02-09,Suite,352370,4,OTA,Leisure,Tidak,4.7,Tidak,1409480,False
+HTL0041,2026-02-10,Deluxe,1717442,3,OTA,Business,Tidak,3.3,Ya,5152326,False
+HTL0042,2026-02-11,Family,518540,3,OTA,Leisure,Tidak,4.0,Tidak,1555620,False
+HTL0043,2026-02-12,Standard,1255967,7,OTA,Leisure,Tidak,3.5,Ya,8791769,False
+HTL0044,2026-02-13,Family,1386729,7,Website Hotel,Business,Tidak,3.8,Tidak,9707103,False
+HTL0045,2026-02-14,Suite,1763705,6,Travel Agent,Family,Tidak,4.2,Ya,10582230,True
+HTL0046,2026-02-15,Standard,1286002,5,Website Hotel,Business,Tidak,4.2,Tidak,6430010,True
+HTL0047,2026-02-16,Deluxe,1438585,2,Website Hotel,Family,Tidak,3.9,Tidak,2877170,False
+HTL0048,2026-02-17,Standard,1221273,4,Travel Agent,Family,Tidak,4.0,Tidak,4885092,False
+HTL0049,2026-02-18,Standard,1255014,7,OTA,Business,Tidak,4.0,Tidak,8785098,False
+HTL0050,2026-02-19,Deluxe,1781267,3,Website Hotel,Business,Tidak,4.1,Tidak,5343801,False
+HTL0051,2026-02-20,Standard,1020840,6,Travel Agent,Business,Tidak,4.0,Tidak,6125040,False
+HTL0052,2026-02-21,Family,758225,4,OTA,Business,Tidak,4.2,Tidak,3032900,True
+HTL0053,2026-02-22,Standard,1715387,6,OTA,Business,Tidak,4.0,Tidak,10292322,True
+HTL0054,2026-02-23,Deluxe,1660638,2,OTA,Family,Tidak,4.0,Tidak,3321276,False
+HTL0055,2026-02-24,Standard,1243168,2,Travel Agent,Family,Tidak,4.2,Tidak,2486336,False
+HTL0056,2026-02-25,Deluxe,1726603,7,OTA,Business,Tidak,4.5,Tidak,12086221,False
+HTL0057,2026-02-26,Deluxe,1582246,1,OTA,Leisure,Ya,4.8,Tidak,1582246,False
+HTL0058,2026-02-27,Standard,1213195,1,OTA,Business,Tidak,4.4,Ya,1213195,False
+HTL0059,2026-02-28,Family,362569,7,OTA,Family,Ya,4.0,Tidak,2537983,True
+HTL0060,2026-03-01,Suite,1696930,5,OTA,Leisure,Tidak,4.3,Tidak,8484650,True
+HTL0061,2026-03-02,Deluxe,1118809,3,OTA,Leisure,Tidak,3.4,Tidak,3356427,False
+HTL0062,2026-03-03,Suite,1587853,4,OTA,Leisure,Tidak,3.3,Ya,6351412,False
+HTL0063,2026-03-04,Standard,1553578,3,Travel Agent,Leisure,Tidak,4.4,Ya,4660734,False
+HTL0064,2026-03-05,Deluxe,1724286,1,Website Hotel,Family,Tidak,4.1,Ya,1724286,False
+HTL0065,2026-03-06,Standard,1429183,1,Website Hotel,Business,Tidak,3.8,Tidak,1429183,False
+HTL0066,2026-03-07,Deluxe,1349724,7,Website Hotel,Leisure,Tidak,4.0,Tidak,9448068,True
+HTL0067,2026-03-08,Standard,1087461,3,Website Hotel,Business,Tidak,3.6,Ya,3262383,True
+HTL0068,2026-03-09,Standard,693083,6,Website Hotel,Family,Tidak,4.3,Tidak,4158498,False
+HTL0069,2026-03-10,Suite,1546411,1,Website Hotel,Leisure,Tidak,4.8,Tidak,1546411,False
+HTL0070,2026-03-11,Deluxe,1438020,5,OTA,Family,Tidak,4.9,Ya,7190100,False
+HTL0071,2026-03-12,Standard,1537077,4,OTA,Family,Tidak,4.8,Tidak,6148308,False
+HTL0072,2026-03-13,Suite,749206,1,Website Hotel,Family,Tidak,4.6,Tidak,749206,False
+HTL0073,2026-03-14,Deluxe,577976,6,OTA,Leisure,Tidak,4.4,Tidak,3467856,True
+HTL0074,2026-03-15,Suite,1495434,2,OTA,Leisure,Tidak,4.7,Tidak,2990868,True
+HTL0075,2026-03-16,Standard,1178538,4,OTA,Family,Tidak,4.0,Tidak,4714152,False
+HTL0076,2026-03-17,Suite,577453,4,OTA,Business,Tidak,3.8,Tidak,2309812,False
+HTL0077,2026-03-18,Family,453631,3,Travel Agent,Business,Tidak,4.2,Ya,1360893,False
+HTL0078,2026-03-19,Standard,1159922,2,Travel Agent,Leisure,Tidak,3.8,Tidak,2319844,False
+HTL0079,2026-03-20,Standard,659575,1,OTA,Business,Ya,3.9,Ya,659575,False
+HTL0080,2026-03-21,Standard,1332935,4,OTA,Leisure,Tidak,4.3,Ya,5331740,True
+HTL0081,2026-03-22,Deluxe,1379281,4,Travel Agent,Leisure,Tidak,5.0,Tidak,5517124,True
+HTL0082,2026-03-23,Deluxe,913783,5,Website Hotel,Leisure,Tidak,4.5,Tidak,4568915,False
+HTL0083,2026-03-24,Standard,1095239,6,Website Hotel,Business,Ya,4.0,Ya,6571434,False
+HTL0084,2026-03-25,Suite,424351,4,Website Hotel,Leisure,Ya,4.2,Tidak,1697404,False
+HTL0085,2026-03-26,Standard,1329147,6,Website Hotel,Leisure,Tidak,4.9,Tidak,7974882,False
+HTL0086,2026-03-27,Standard,1194352,6,Website Hotel,Leisure,Tidak,4.4,Tidak,7166112,False
+HTL0087,2026-03-28,Standard,1754450,6,Website Hotel,Family,Tidak,4.8,Tidak,10526700,True
+HTL0088,2026-03-29,Family,753004,6,Website Hotel,Leisure,Tidak,4.3,Tidak,4518024,True
+HTL0089,2026-03-30,Deluxe,1099126,3,Travel Agent,Business,Tidak,3.6,Tidak,3297378,False
+HTL0090,2026-03-31,Standard,1723302,1,Website Hotel,Business,Tidak,3.7,Tidak,1723302,False
+HTL0091,2026-04-01,Deluxe,483554,7,Website Hotel,Business,Tidak,4.2,Ya,3384878,False
+HTL0092,2026-04-02,Standard,370540,4,OTA,Leisure,Tidak,3.3,Tidak,1482160,False
+HTL0093,2026-04-03,Deluxe,1732404,5,OTA,Leisure,Tidak,4.4,Tidak,8662020,False
+HTL0094,2026-04-04,Family,733688,4,Website Hotel,Business,Tidak,4.2,Ya,2934752,True
+HTL0095,2026-04-05,Suite,589551,7,OTA,Family,Tidak,4.1,Tidak,4126857,True
+HTL0096,2026-04-06,Family,1637845,3,OTA,Business,Tidak,4.0,Ya,4913535,False
+HTL0097,2026-04-07,Deluxe,565316,1,OTA,Family,Tidak,5.0,Ya,565316,False
+HTL0098,2026-04-08,Standard,1549495,5,Website Hotel,Business,Tidak,4.6,Ya,7747475,False
+HTL0099,2026-04-09,Suite,915901,7,Travel Agent,Family,Tidak,3.8,Tidak,6411307,False
+HTL0100,2026-04-10,Standard,481905,2,OTA,Business,Tidak,3.1,Tidak,963810,False
+HTL0101,2026-04-11,Standard,980592,3,Travel Agent,Leisure,Tidak,3.8,Tidak,2941776,True
+HTL0102,2026-04-12,Deluxe,1106179,7,OTA,Business,Ya,5.0,Tidak,7743253,True
+HTL0103,2026-04-13,Deluxe,610916,1,Travel Agent,Business,Tidak,3.7,Tidak,610916,False
+HTL0104,2026-04-14,Family,1424673,3,OTA,Family,Tidak,3.8,Tidak,4274019,False
+HTL0105,2026-04-15,Suite,807848,5,OTA,Business,Tidak,4.5,Ya,4039240,False
+HTL0106,2026-04-16,Standard,803337,2,Travel Agent,Family,Tidak,3.7,Tidak,1606674,False
+HTL0107,2026-04-17,Deluxe,1411349,6,OTA,Family,Tidak,4.6,Tidak,8468094,False
+HTL0108,2026-04-18,Standard,1053266,1,Website Hotel,Family,Tidak,4.2,Tidak,1053266,True
+HTL0109,2026-04-19,Deluxe,539934,5,Website Hotel,Family,Tidak,4.2,Tidak,2699670,True
+HTL0110,2026-04-20,Deluxe,1323424,3,Website Hotel,Leisure,Tidak,3.7,Tidak,3970272,False
+HTL0111,2026-04-21,Standard,524815,5,OTA,Family,Tidak,4.3,Tidak,2624075,False
+HTL0112,2026-04-22,Family,612647,6,Travel Agent,Leisure,Tidak,4.5,Tidak,3675882,False
+HTL0113,2026-04-23,Standard,742281,5,Travel Agent,Family,Tidak,2.8,Tidak,3711405,False
+HTL0114,2026-04-24,Deluxe,1000832,5,OTA,Business,Tidak,4.5,Tidak,5004160,False
+HTL0115,2026-04-25,Suite,667440,1,OTA,Family,Tidak,5.0,Tidak,667440,True
+HTL0116,2026-04-26,Deluxe,1036551,6,OTA,Family,Tidak,4.2,Tidak,6219306,True
+HTL0117,2026-04-27,Deluxe,1549975,2,Website Hotel,Leisure,Tidak,3.5,Tidak,3099950,False
+HTL0118,2026-04-28,Family,549549,3,OTA,Leisure,Tidak,4.5,Ya,1648647,False
+HTL0119,2026-04-29,Standard,1261900,7,Website Hotel,Business,Tidak,4.0,Tidak,8833300,False
+HTL0120,2026-04-30,Standard,1641914,4,Website Hotel,Family,Tidak,4.4,Tidak,6567656,False
+HTL0121,2026-05-01,Suite,1191430,5,OTA,Family,Tidak,3.5,Tidak,5957150,False
+HTL0122,2026-05-02,Deluxe,1130819,2,OTA,Business,Tidak,3.8,Tidak,2261638,True
+HTL0123,2026-05-03,Family,1280843,5,OTA,Leisure,Tidak,4.7,Ya,6404215,True
+HTL0124,2026-05-04,Deluxe,1181573,1,OTA,Family,Tidak,4.2,Tidak,1181573,False
+HTL0125,2026-05-05,Deluxe,1316807,4,OTA,Business,Tidak,4.0,Ya,5267228,False
+HTL0126,2026-05-06,Standard,1683594,2,OTA,Leisure,Tidak,4.1,Tidak,3367188,False
+HTL0127,2026-05-07,Standard,604788,5,OTA,Business,Tidak,4.3,Tidak,3023940,False
+HTL0128,2026-05-08,Deluxe,1098401,6,Website Hotel,Business,Tidak,3.9,Tidak,6590406,False
+HTL0129,2026-05-09,Standard,885151,5,OTA,Family,Tidak,4.2,Tidak,4425755,True
+HTL0130,2026-05-10,Family,1243975,1,OTA,Leisure,Tidak,4.5,Ya,1243975,True
+HTL0131,2026-05-11,Deluxe,1131785,1,OTA,Family,Tidak,3.9,Ya,1131785,False
+HTL0132,2026-05-12,Family,741197,4,OTA,Leisure,Tidak,3.9,Ya,2964788,False
+HTL0133,2026-05-13,Standard,1090460,1,OTA,Leisure,Tidak,4.2,Tidak,1090460,False
+HTL0134,2026-05-14,Family,1205544,2,OTA,Family,Tidak,4.3,Ya,2411088,False
+HTL0135,2026-05-15,Standard,745618,1,Website Hotel,Business,Tidak,4.1,Tidak,745618,False
+HTL0136,2026-05-16,Deluxe,1725552,6,Website Hotel,Business,Tidak,4.4,Tidak,10353312,True
+HTL0137,2026-05-17,Deluxe,1781823,7,OTA,Leisure,Tidak,4.6,Ya,12472761,True
+HTL0138,2026-05-18,Family,381428,1,Travel Agent,Family,Tidak,4.9,Ya,381428,False
+HTL0139,2026-05-19,Suite,413593,3,OTA,Business,Tidak,4.5,Tidak,1240779,False
+HTL0140,2026-05-20,Standard,1766811,5,OTA,Leisure,Tidak,4.0,Ya,8834055,False
+HTL0141,2026-05-21,Deluxe,551862,4,Website Hotel,Leisure,Tidak,3.4,Tidak,2207448,False
+HTL0142,2026-05-22,Standard,1634533,4,Website Hotel,Family,Tidak,4.1,Tidak,6538132,False
+HTL0143,2026-05-23,Deluxe,614048,6,Website Hotel,Family,Tidak,3.8,Ya,3684288,True
+HTL0144,2026-05-24,Standard,722769,2,OTA,Business,Tidak,4.9,Tidak,1445538,True
+HTL0145,2026-05-25,Deluxe,1251915,7,Website Hotel,Leisure,Tidak,3.6,Tidak,8763405,False
+HTL0146,2026-05-26,Suite,1150676,5,Website Hotel,Leisure,Tidak,3.6,Tidak,5753380,False
+HTL0147,2026-05-27,Standard,1498575,4,OTA,Leisure,Tidak,3.9,Ya,5994300,False
+HTL0148,2026-05-28,Suite,1055372,4,Website Hotel,Family,Tidak,3.3,Tidak,4221488,False
+HTL0149,2026-05-29,Standard,565265,6,OTA,Business,Tidak,3.3,Tidak,3391590,False
+HTL0150,2026-05-30,Suite,1326799,5,Website Hotel,Business,Ya,4.2,Tidak,6633995,True
+HTL0151,2026-05-31,Family,434386,6,Website Hotel,Family,Tidak,3.9,Tidak,2606316,True
+HTL0152,2026-06-01,Deluxe,1213832,2,Travel Agent,Family,Tidak,4.4,Tidak,2427664,False
+HTL0153,2026-06-02,Standard,980801,2,OTA,Business,Tidak,4.6,Tidak,1961602,False
+HTL0154,2026-06-03,Deluxe,413525,5,Website Hotel,Business,Ya,4.6,Ya,2067625,False
+HTL0155,2026-06-04,Standard,818525,1,Website Hotel,Business,Tidak,3.6,Ya,818525,False
+HTL0156,2026-06-05,Suite,700010,3,OTA,Business,Tidak,4.1,Ya,2100030,False
+HTL0157,2026-06-06,Standard,1367536,5,Website Hotel,Business,Tidak,4.3,Tidak,6837680,True
+HTL0158,2026-06-07,Standard,533179,7,OTA,Family,Tidak,3.5,Ya,3732253,True
+HTL0159,2026-06-08,Standard,373945,1,Website Hotel,Family,Tidak,4.1,Tidak,373945,False
+HTL0160,2026-06-09,Suite,731554,4,OTA,Business,Tidak,4.0,Tidak,2926216,False
+HTL0161,2026-06-10,Family,1750038,7,OTA,Business,Ya,3.7,Ya,12250266,False
+HTL0162,2026-06-11,Suite,687066,7,OTA,Leisure,Tidak,4.4,Tidak,4809462,False
+HTL0163,2026-06-12,Standard,1461029,4,Travel Agent,Family,Tidak,4.6,Tidak,5844116,False
+HTL0164,2026-06-13,Standard,652652,6,Travel Agent,Family,Tidak,4.5,Tidak,3915912,True
+HTL0165,2026-06-14,Family,1438565,2,OTA,Leisure,Tidak,3.7,Ya,2877130,True
+HTL0166,2026-06-15,Deluxe,673991,7,Website Hotel,Business,Tidak,3.4,Ya,4717937,False
+HTL0167,2026-06-16,Family,1079421,1,Travel Agent,Family,Tidak,4.2,Tidak,1079421,False
+HTL0168,2026-06-17,Suite,1336548,1,Website Hotel,Leisure,Tidak,4.7,Tidak,1336548,False
+HTL0169,2026-06-18,Suite,954642,1,OTA,Family,Tidak,3.8,Ya,954642,False
+HTL0170,2026-06-19,Family,386413,4,Travel Agent,Family,Tidak,4.3,Tidak,1545652,False
+HTL0171,2026-06-20,Deluxe,1794068,2,OTA,Leisure,Tidak,4.3,Tidak,3588136,True
+HTL0172,2026-06-21,Suite,954015,2,OTA,Business,Tidak,3.9,Tidak,1908030,True
+HTL0173,2026-06-22,Standard,1452596,7,OTA,Business,Tidak,4.4,Ya,10168172,False
+HTL0174,2026-06-23,Standard,1669307,5,Website Hotel,Family,Tidak,4.4,Tidak,8346535,False
+HTL0175,2026-06-24,Suite,1121677,4,OTA,Family,Tidak,3.7,Tidak,4486708,False
+HTL0176,2026-06-25,Deluxe,1346020,6,OTA,Business,Tidak,4.0,Ya,8076120,False
+HTL0177,2026-06-26,Deluxe,1517514,1,Website Hotel,Family,Tidak,3.9,Tidak,1517514,False
+HTL0178,2026-06-27,Standard,1013171,2,OTA,Family,Tidak,5.0,Ya,2026342,True
+HTL0179,2026-06-28,Deluxe,652908,4,Website Hotel,Business,Tidak,4.5,Tidak,2611632,True
+HTL0180,2026-06-29,Family,1707866,4,OTA,Leisure,Tidak,3.8,Tidak,6831464,False
+HTL0181,2026-06-30,Suite,773392,6,Website Hotel,Leisure,Tidak,3.6,Tidak,4640352,False
+HTL0182,2026-07-01,Deluxe,916971,3,OTA,Leisure,Tidak,5.0,Tidak,2750913,False
+HTL0183,2026-07-02,Standard,914474,1,OTA,Leisure,Tidak,4.1,Tidak,914474,False
+HTL0184,2026-07-03,Standard,1031494,6,OTA,Leisure,Tidak,5.0,Tidak,6188964,False
+HTL0185,2026-07-04,Deluxe,1053755,6,Travel Agent,Business,Tidak,4.2,Ya,6322530,True
+HTL0186,2026-07-05,Family,609470,7,OTA,Family,Tidak,2.7,Tidak,4266290,True
+HTL0187,2026-07-06,Standard,1061056,1,OTA,Leisure,Tidak,2.8,Tidak,1061056,False
+HTL0188,2026-07-07,Suite,630039,2,OTA,Leisure,Tidak,4.3,Tidak,1260078,False
+HTL0189,2026-07-08,Deluxe,1157362,3,OTA,Leisure,Tidak,3.5,Tidak,3472086,False
+HTL0190,2026-07-09,Standard,790170,1,OTA,Leisure,Tidak,4.2,Ya,790170,False
+HTL0191,2026-07-10,Family,1481277,2,OTA,Leisure,Ya,4.1,Tidak,2962554,False
+HTL0192,2026-07-11,Standard,1732504,3,Travel Agent,Leisure,Ya,4.3,Tidak,5197512,True
+HTL0193,2026-07-12,Deluxe,769919,3,OTA,Family,Tidak,4.8,Tidak,2309757,True
+HTL0194,2026-07-13,Standard,1598364,4,Travel Agent,Family,Ya,3.0,Ya,6393456,False
+HTL0195,2026-07-14,Standard,1297400,2,Website Hotel,Leisure,Tidak,5.0,Ya,2594800,False
+HTL0196,2026-07-15,Deluxe,818148,2,Website Hotel,Leisure,Tidak,3.8,Tidak,1636296,False
+HTL0197,2026-07-16,Family,428301,2,Travel Agent,Leisure,Tidak,4.2,Tidak,856602,False
+HTL0198,2026-07-17,Family,1742439,2,Travel Agent,Leisure,Tidak,4.6,Tidak,3484878,False
+HTL0199,2026-07-18,Standard,1130659,2,OTA,Leisure,Tidak,4.6,Tidak,2261318,True
+HTL0200,2026-07-19,Standard,951066,4,Website Hotel,Business,Tidak,4.4,Tidak,3804264,True
+HTL0201,2026-07-20,Suite,1712384,5,Website Hotel,Leisure,Tidak,4.4,Ya,8561920,False
+HTL0202,2026-07-21,Family,501111,4,OTA,Business,Tidak,4.4,Tidak,2004444,False
+HTL0203,2026-07-22,Deluxe,1028792,2,OTA,Business,Tidak,4.8,Ya,2057584,False
+HTL0204,2026-07-23,Standard,671949,7,OTA,Business,Tidak,5.0,Ya,4703643,False
+HTL0205,2026-07-24,Standard,678109,7,Travel Agent,Business,Ya,3.7,Ya,4746763,False
+HTL0206,2026-07-25,Family,790493,2,Website Hotel,Business,Tidak,4.0,Ya,1580986,True
+HTL0207,2026-07-26,Deluxe,1687811,2,OTA,Business,Tidak,4.7,Tidak,3375622,True
+HTL0208,2026-07-27,Suite,587443,6,Website Hotel,Family,Tidak,3.8,Ya,3524658,False
+HTL0209,2026-07-28,Deluxe,1371182,5,Website Hotel,Leisure,Ya,4.6,Tidak,6855910,False
+HTL0210,2026-07-29,Deluxe,1377965,5,OTA,Business,Tidak,3.7,Tidak,6889825,False
+HTL0211,2026-07-30,Deluxe,998427,6,OTA,Business,Tidak,4.4,Ya,5990562,False
+HTL0212,2026-07-31,Family,883000,7,OTA,Family,Tidak,4.7,Tidak,6181000,False
+HTL0213,2026-08-01,Deluxe,1230533,4,OTA,Business,Tidak,5.0,Tidak,4922132,True
+HTL0214,2026-08-02,Standard,505142,6,OTA,Family,Ya,4.1,Tidak,3030852,True
+HTL0215,2026-08-03,Deluxe,1240498,4,OTA,Family,Tidak,4.1,Tidak,4961992,False
+HTL0216,2026-08-04,Family,1576794,4,Website Hotel,Family,Tidak,5.0,Tidak,6307176,False
+HTL0217,2026-08-05,Standard,1251649,3,Website Hotel,Family,Tidak,4.5,Tidak,3754947,False
+HTL0218,2026-08-06,Standard,1456031,6,Travel Agent,Leisure,Tidak,3.6,Tidak,8736186,False
+HTL0219,2026-08-07,Family,894981,2,Travel Agent,Leisure,Ya,4.0,Ya,1789962,False
+HTL0220,2026-08-08,Standard,667865,6,Travel Agent,Business,Tidak,4.5,Tidak,4007190,True
+HTL0221,2026-08-09,Deluxe,1483500,1,OTA,Leisure,Tidak,3.8,Tidak,1483500,True
+HTL0222,2026-08-10,Standard,954454,6,OTA,Leisure,Tidak,2.9,Ya,5726724,False
+HTL0223,2026-08-11,Family,1643666,7,OTA,Leisure,Tidak,4.6,Ya,11505662,False
+HTL0224,2026-08-12,Standard,824397,5,OTA,Family,Tidak,4.4,Tidak,4121985,False
+HTL0225,2026-08-13,Suite,942295,2,OTA,Business,Tidak,3.7,Tidak,1884590,False
+HTL0226,2026-08-14,Standard,518211,4,Travel Agent,Leisure,Tidak,4.6,Tidak,2072844,False
+HTL0227,2026-08-15,Deluxe,1301470,3,OTA,Family,Tidak,4.3,Tidak,3904410,True
+HTL0228,2026-08-16,Family,877687,5,Website Hotel,Leisure,Tidak,4.7,Tidak,4388435,True
+HTL0229,2026-08-17,Family,569239,3,Travel Agent,Business,Tidak,4.5,Tidak,1707717,False
+HTL0230,2026-08-18,Standard,1413935,4,OTA,Business,Tidak,3.5,Ya,5655740,False
+HTL0231,2026-08-19,Suite,499314,2,OTA,Leisure,Tidak,4.7,Tidak,998628,False
+HTL0232,2026-08-20,Deluxe,369888,7,OTA,Business,Tidak,4.1,Ya,2589216,False
+HTL0233,2026-08-21,Standard,542269,6,Website Hotel,Business,Tidak,4.0,Tidak,3253614,False
+HTL0234,2026-08-22,Standard,378153,7,OTA,Family,Tidak,4.4,Tidak,2647071,True
+HTL0235,2026-08-23,Standard,574271,3,Website Hotel,Business,Tidak,3.6,Ya,1722813,True
+HTL0236,2026-08-24,Standard,1016584,3,Travel Agent,Leisure,Tidak,4.3,Tidak,3049752,False
+HTL0237,2026-08-25,Standard,734905,4,Website Hotel,Family,Tidak,4.8,Tidak,2939620,False
+HTL0238,2026-08-26,Family,589186,3,Website Hotel,Family,Tidak,3.4,Ya,1767558,False
+HTL0239,2026-08-27,Deluxe,1577965,3,Travel Agent,Leisure,Tidak,3.9,Tidak,4733895,False
+HTL0240,2026-08-28,Standard,1454206,1,OTA,Family,Tidak,3.2,Tidak,1454206,False
+HTL0241,2026-08-29,Family,1793823,7,OTA,Leisure,Tidak,3.6,Tidak,12556761,True
+HTL0242,2026-08-30,Deluxe,893543,7,OTA,Leisure,Tidak,3.6,Tidak,6254801,True
+HTL0243,2026-08-31,Family,1160539,7,OTA,Leisure,Tidak,4.6,Tidak,8123773,False
+HTL0244,2026-09-01,Standard,787863,6,OTA,Leisure,Tidak,4.3,Tidak,4727178,False
+HTL0245,2026-09-02,Suite,984168,7,OTA,Business,Tidak,3.8,Ya,6889176,False
+HTL0246,2026-09-03,Standard,1438857,5,Travel Agent,Leisure,Tidak,4.1,Tidak,7194285,False
+HTL0247,2026-09-04,Standard,1645812,5,OTA,Business,Tidak,4.1,Ya,8229060,False
+HTL0248,2026-09-05,Family,762050,1,Travel Agent,Family,Tidak,4.3,Ya,762050,True
+HTL0249,2026-09-06,Deluxe,1261503,7,OTA,Business,Tidak,4.2,Tidak,8830521,True
+HTL0250,2026-09-07,Family,1509834,2,OTA,Family,Tidak,3.9,Ya,3019668,False
+HTL0251,2026-09-08,Suite,1250257,5,Website Hotel,Family,Tidak,4.1,Ya,6251285,False
+HTL0252,2026-09-09,Standard,785239,6,OTA,Leisure,Tidak,4.3,Ya,4711434,False
+HTL0253,2026-09-10,Standard,1742738,2,OTA,Leisure,Tidak,4.4,Tidak,3485476,False
+HTL0254,2026-09-11,Family,591644,7,OTA,Business,Tidak,3.9,Tidak,4141508,False
+HTL0255,2026-09-12,Standard,1658596,4,OTA,Business,Tidak,4.3,Tidak,6634384,True
+HTL0256,2026-09-13,Family,498786,2,Website Hotel,Leisure,Tidak,4.4,Tidak,997572,True
+HTL0257,2026-09-14,Deluxe,982311,7,OTA,Family,Tidak,4.1,Ya,6876177,False
+HTL0258,2026-09-15,Family,1155063,6,OTA,Family,Tidak,3.9,Tidak,6930378,False
+HTL0259,2026-09-16,Deluxe,669456,7,OTA,Family,Tidak,4.6,Tidak,4686192,False
+HTL0260,2026-09-17,Standard,1231966,3,Travel Agent,Family,Tidak,4.2,Tidak,3695898,False
+HTL0261,2026-09-18,Standard,1599702,4,OTA,Leisure,Ya,4.1,Ya,6398808,False
+HTL0262,2026-09-19,Standard,1627495,7,Website Hotel,Business,Tidak,4.5,Tidak,11392465,True
+HTL0263,2026-09-20,Standard,576120,1,Website Hotel,Business,Tidak,4.5,Tidak,576120,True
+HTL0264,2026-09-21,Family,885616,2,OTA,Leisure,Tidak,5.0,Tidak,1771232,False
+HTL0265,2026-09-22,Standard,1228065,2,OTA,Leisure,Tidak,3.6,Tidak,2456130,False
+HTL0266,2026-09-23,Family,954135,6,OTA,Family,Tidak,3.6,Tidak,5724810,False
+HTL0267,2026-09-24,Suite,1493790,2,Website Hotel,Business,Tidak,4.3,Ya,2987580,False
+HTL0268,2026-09-25,Standard,1723119,1,OTA,Leisure,Tidak,5.0,Tidak,1723119,False
+HTL0269,2026-09-26,Deluxe,632062,7,Website Hotel,Family,Tidak,3.5,Tidak,4424434,True
+HTL0270,2026-09-27,Deluxe,457395,5,OTA,Family,Tidak,4.2,Ya,2286975,True
+HTL0271,2026-09-28,Family,1075820,6,Website Hotel,Business,Tidak,3.9,Tidak,6454920,False
+HTL0272,2026-09-29,Standard,524178,2,OTA,Business,Ya,4.6,Tidak,1048356,False
+HTL0273,2026-09-30,Standard,567960,5,Website Hotel,Leisure,Ya,3.8,Ya,2839800,False
+HTL0274,2026-10-01,Deluxe,1149200,6,OTA,Business,Tidak,4.1,Tidak,6895200,False
+HTL0275,2026-10-02,Family,1178496,5,Website Hotel,Business,Tidak,3.7,Tidak,5892480,False
+HTL0276,2026-10-03,Suite,509187,2,OTA,Leisure,Tidak,4.7,Tidak,1018374,True
+HTL0277,2026-10-04,Standard,1427678,4,OTA,Leisure,Tidak,3.8,Tidak,5710712,True
+HTL0278,2026-10-05,Standard,1355826,1,Website Hotel,Business,Tidak,4.3,Tidak,1355826,False
+HTL0279,2026-10-06,Standard,1264414,1,Website Hotel,Family,Tidak,4.0,Tidak,1264414,False
+HTL0280,2026-10-07,Deluxe,1701886,3,OTA,Business,Tidak,3.6,Ya,5105658,False
+HTL0281,2026-10-08,Family,1323942,5,OTA,Family,Tidak,4.5,Tidak,6619710,False
+HTL0282,2026-10-09,Standard,1679500,5,Travel Agent,Business,Tidak,3.9,Tidak,8397500,False
+HTL0283,2026-10-10,Family,1697804,1,Travel Agent,Family,Tidak,2.8,Ya,1697804,True
+HTL0284,2026-10-11,Standard,448208,1,Travel Agent,Leisure,Tidak,5.0,Ya,448208,True
+HTL0285,2026-10-12,Standard,1487696,3,OTA,Business,Tidak,4.4,Ya,4463088,False
+HTL0286,2026-10-13,Standard,853517,5,OTA,Family,Tidak,4.7,Ya,4267585,False
+HTL0287,2026-10-14,Family,1757432,4,Website Hotel,Family,Tidak,5.0,Ya,7029728,False
+HTL0288,2026-10-15,Deluxe,872702,1,OTA,Business,Tidak,4.9,Tidak,872702,False
+HTL0289,2026-10-16,Deluxe,796976,2,OTA,Leisure,Tidak,3.5,Ya,1593952,False
+HTL0290,2026-10-17,Family,1612405,1,Website Hotel,Business,Tidak,4.4,Tidak,1612405,True
+HTL0291,2026-10-18,Deluxe,769393,4,Website Hotel,Business,Tidak,3.6,Tidak,3077572,True
+HTL0292,2026-10-19,Standard,964892,5,Website Hotel,Leisure,Tidak,3.6,Tidak,4824460,False
+HTL0293,2026-10-20,Deluxe,1060835,5,Website Hotel,Business,Tidak,4.0,Tidak,5304175,False
+HTL0294,2026-10-21,Suite,726281,7,Travel Agent,Business,Tidak,4.5,Tidak,5083967,False
+HTL0295,2026-10-22,Standard,578040,7,Website Hotel,Business,Tidak,4.4,Ya,4046280,False
+HTL0296,2026-10-23,Suite,1291039,5,Website Hotel,Family,Tidak,4.0,Ya,6455195,False
+HTL0297,2026-10-24,Deluxe,1339737,1,Website Hotel,Business,Tidak,4.7,Ya,1339737,True
+HTL0298,2026-10-25,Standard,954293,6,OTA,Business,Tidak,3.7,Ya,5725758,True
+HTL0299,2026-10-26,Standard,1700245,7,Website Hotel,Leisure,Tidak,5.0,Ya,11901715,False
+HTL0300,2026-10-27,Deluxe,1551182,5,OTA,Family,Tidak,4.5,Ya,7755910,False
