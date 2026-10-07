@@ -1,0 +1,309 @@
+ID_Pelanggan,Usia,Jenis_Kelamin,Kota,Pendapatan,Kategori_Produk,Harga_Satuan,Jumlah,Diskon_Persen,Metode_Pembayaran,Membership,Rating,Lama_Pengiriman_Hari,Total_Pembelian,Tanggal_Transaksi,Kode_Promosi
+1289,34.0,Perempuan,Pekanbaru,8718000.0,Fashion,455000.0,4,10,COD,Silver,3.5,3,1638000.0,17/12/2025,HEMAT
+1010,36.0,P,palembang,5478000.0,Olahraga,617000.0,5,15,kartu kredit,platinum,3.9,3,2622200.0,11/01/2025,PROMO10
+1058,30.0,Perempuan ,PADANG,5269000.0,Kecantikan,187000.0,3,15,transfer,silver,4.2,3,476800.0,11/03/2025,PROMO10
+1061,28.0,Laki-laki,Bengkulu,7580000.0,Rumah Tangga,206000.0,4,0,transfer,basic,4.5,5,824000.0,15/03/2025,PROMO10
+1026,33.0,Pria,,3474000.0,Olahraga,140000.0,3,0,transfer,basic,4.6,2,420000.0,31/01/2025,NEWUSER
+1064,120.0,P,,7189000.0,Rumah Tangga,812000.0,2,15,Kartu Kredit,Gold,3.3,4,1380400.0,18/03/2025,-
+1093,26.0,Perempuan,Palembang,3312000.0,Olahraga,264000.0,5,5,Kartu Kredit,Basic,4.2,1,1254000.0,23/04/2025,PROMO10
+1185,30.0,Laki-laki,Pekanbaru,4269000.0,Kecantikan,298000.0,7,5,Kartu Kredit,Gold,3.7,3,1981700.0,13/08/2025,HEMAT
+1245,22.0,Perempuan,Pekanbaru,1973000.0,Fashion,133000.0,3,15,Transfer,Gold,3.1,5,339200.0,25/10/2025,PROMO10
+1047,28.0,Laki laki,pekan baru,3127000.0,Fashion,121000.0,3,15,e-wallet,basic,5.0,3,308600.0,26/02/2025,HEMAT
+1076,39.0,Laki-laki,palembang,4248000.0,Rumah Tangga,259000.0,1,10,Kartu Kredit,Silver,,5,233100.0,02/04/2025,NONE
+1164,,Laki-laki,Jambi,6606000.0,Kecantikan,554000.0,4,5,Transfer,Gold,3.6,1,2105200.0,18/07/2025,NONE
+1295,35.0,Perempuan,Palembang,9570000.0,Elektronik,146000.0,3,15,E-Wallet,Silver,4.4,3,372300.0,24/12/2025,PROMO10
+1027,23.0,Laki laki,bengkulu,10104000.0,Kecantikan,315000.0,1,10,Cash On Delivery,Platinum,4.8,6,283500.0,01/02/2025,NEWUSER
+1285,49.0,Perempuan,Jambi,6512000.0,Fashion,429000.0,5,25,COD,Basic,4.9,3,1608800.0,12/12/2025,PROMO10
+1290,27.0,Perempuan,Padang,4082000.0,Fashion,176000.0,4,15,COD,Basic,4.7,4,598400.0,18/12/2025,HEMAT
+1006,30.0,L,palembang,6325000.0,Rumah Tangga,220000.0,7,15,kartu kredit,silver,3.9,1,1309000.0,07/01/2025,NEWUSER
+1156,,Perempuan,Bengkulu,4200000.0,Olahraga,191000.0,3,10,E-Wallet,Gold,4.4,3,515700.0,08/07/2025,NEWUSER
+1165,40.0,Perempuan,Bengkulu,5704000.0,Rumah Tangga,256000.0,2,0,COD,Basic,2.9,5,512000.0,19/07/2025,NEWUSER
+1169,30.0,Perempuan,Pekanbaru,4726000.0,Kecantikan,543000.0,3,20,E-Wallet,Platinum,0.0,5,1303200.0,24/07/2025,PROMO10
+1074,45.0,Laki-laki,Jambi,9239000.0,Fashion,262000.0,3,10,E-Wallet,Silver,4.0,4,707400.0,30/03/2025,NONE
+1105,31.0,Laki-laki,Bengkulu,4900000.0,Olahraga,541000.0,4,5,Transfer,Basic,5.0,6,2055800.0,07/05/2025,-
+1138,29.0,Laki-laki,Bengkulu,3224000.0,Kecantikan,289000.0,7,0,Transfer,Basic,3.1,6,2023000.0,16/06/2025,-
+1207,36.0,Laki-laki,Pekanbaru,4596000.0,Olahraga,312000.0,3,10,Transfer,Basic,4.9,4,842400.0,08/09/2025,HEMAT
+1077,33.0,Laki-laki,Pekanbaru,,Kecantikan,164000.0,5,0,Transfer,Silver,3.5,4,820000.0,03/04/2025,PROMO10
+1174,35.0,Perempuan,Palembang,11099000.0,Elektronik,414000.0,3,15,Transfer,Basic,4.7,2,1055700.0,30/07/2025,NEWUSER
+1114,52.0,Laki-laki,Padang,10662000.0,Fashion,189000.0,2,10,E-Wallet,Basic,,4,340200.0,18/05/2025,NEWUSER
+1034,24.0,Pria,PADANG,4424000.0,,248000.0,1,15,Ewallet,Platinum,,1,210800.0,10/02/2025,PROMO10
+1275,24.0,Laki-laki,Bengkulu,8715000.0,Fashion,141000.0,2,0,COD,Silver,3.5,2,282000.0,30/11/2025,-
+1252,39.0,Laki-laki,Palembang,5594000.0,Rumah Tangga,372000.0,8,10,E-Wallet,Silver,3.9,5,2678400.0,02/11/2025,PROMO10
+1109,34.0,Laki-laki,Bengkulu,,Rumah Tangga,113000.0,5,5,COD,Basic,3.9,4,536800.0,12/05/2025,PROMO10
+1004,44.0,Pria, Jambi,7897000.0,Olahraga,279000.0,4,25,,gold,4.1,3,837000.0,04/01/2025,NEWUSER
+1083,44.0,Laki-laki,Jambi,,Olahraga,532000.0,3,10,Transfer,Basic,4.2,1,1436400.0,10/04/2025,NONE
+1260,38.0,Perempuan,Padang,4965000.0,Rumah Tangga,65000.0,4,15,COD,Platinum,3.3,4,221000.0,12/11/2025,NONE
+1094,29.0,Laki-laki,Palembang,13680000.0,Elektronik,443000.0,6,25,Kartu Kredit,Silver,4.4,1,1993500.0,24/04/2025,-
+1102,29.0,Perempuan,Jambi,4582000.0,Rumah Tangga,285000.0,7,-5,Transfer,Gold,4.2,3,1695800.0,03/05/2025,PROMO10
+1046,26.0,Pria,Jambi,6660000.0,Fashion,138000.0,4,5,transfer,silver,4.0,4,524400.0,24/02/2025,HEMAT
+1018,35.0,Pria,palembang,5218000.0,Kecantikan,415000.0,4,10,kartu kredit,silver,5.0,3,1494000.0,21/01/2025,NONE
+1198,33.0,Laki-laki,Palembang,5507000.0,Fashion,329000.0,6,15,E-Wallet,Basic,4.7,6,1677900.0,28/08/2025,NEWUSER
+1120,38.0,Perempuan,Jambi,6185000.0,Kecantikan,410000.0,3,25,Kartu Kredit,Silver,4.0,4,922500.0,25/05/2025,NONE
+1043,31.0,Laki laki,bengkulu,6699000.0,Fashion,233000.0,4,10,kartu kredit,silver,3.9,3,838800.0,21/02/2025,HEMAT
+1025,28.0,Perempuan ,bengkulu,3815000.0,Elektronik,133000.0,4,0,cod,gold,-1.0,4,532000.0,30/01/2025,NONE
+1180,54.0,Laki-laki,Jambi,9930000.0,Kecantikan,106000.0,4,15,Transfer,Basic,1.6,2,360400.0,06/08/2025,NEWUSER
+1243,36.0,Laki-laki,Pekanbaru,7615000.0,Olahraga,129000.0,4,10,COD,Gold,3.6,4,464400.0,22/10/2025,PROMO10
+1297,39.0,Perempuan,Padang,5314000.0,Olahraga,140000.0,4,15,COD,Basic,5.0,2,476000.0,27/12/2025,NEWUSER
+1197,25.0,Perempuan,Jambi,3762000.0,Fashion,216000.0,6,0,E-Wallet,Basic,4.1,3,1296000.0,27/08/2025,-
+1227,33.0,Perempuan,Jambi,2885000.0,Rumah Tangga,313000.0,5,5,Kartu Kredit,Basic,2.9,4,1486800.0,03/10/2025,NONE
+1008,38.0,L,palembang,4598000.0,,325000.0,6,10,transfer,basic,4.0,4,1755000.0,09/01/2025,NEWUSER
+1287,31.0,Laki-laki,Palembang,,Rumah Tangga,413000.0,8,15,Transfer,Basic,3.5,3,2808400.0,15/12/2025,-
+1078,30.0,Laki-laki,Pekanbaru,6516000.0,Rumah Tangga,241000.0,4,0,Kartu Kredit,Basic,3.6,6,964000.0,04/04/2025,NEWUSER
+1115,30.0,Perempuan,Bengkulu,6968000.0,Elektronik,210000.0,6,0,Transfer,Platinum,3.7,2,1260000.0,19/05/2025,HEMAT
+1240,39.0,Laki-laki,Palembang,4628000.0,,121000.0,3,0,E-Wallet,Silver,4.6,3,363000.0,18/10/2025,NONE
+1146,38.0,Perempuan,Padang,8110000.0,Elektronik,70000.0,4,10,Kartu Kredit,Basic,3.7,6,252000.0,26/06/2025,HEMAT
+1085,26.0,Perempuan,Pekanbaru,4264000.0,Kecantikan,98000.0,4,25,Kartu Kredit,Silver,3.1,5,294000.0,13/04/2025,HEMAT
+1182,25.0,Perempuan,Pekanbaru,3903000.0,Elektronik,386000.0,5,5,Kartu Kredit,Gold,3.1,4,1833500.0,09/08/2025,PROMO10
+1231,26.0,Perempuan,Palembang,7997000.0,Olahraga,382000.0,1,25,E-Wallet,Silver,4.0,5,286500.0,08/10/2025,PROMO10
+1261,25.0,Perempuan,Pekanbaru,6836000.0,Fashion,335000.0,3,0,Transfer,Basic,4.1,4,1005000.0,13/11/2025,HEMAT
+1199,32.0,Perempuan,Palembang,,Kecantikan,188000.0,4,15,E-Wallet,Silver,3.6,4,639200.0,30/08/2025,-
+1196,35.0,Laki-laki,Pekanbaru,,Rumah Tangga,135000.0,7,15,COD,Silver,4.3,3,803200.0,26/08/2025,NEWUSER
+1211,37.0,Perempuan,Padang,6777000.0,Olahraga,73000.0,6,110,COD,Silver,3.3,3,438000.0,13/09/2025,NEWUSER
+1225,28.0,Laki-laki,Padang,4256000.0,Kecantikan,155000.0,6,5,Kartu Kredit,Silver,4.4,3,883500.0,30/09/2025,HEMAT
+1159,22.0,Perempuan,Jambi,4677000.0,Fashion,411000.0,1,10,E-Wallet,Silver,4.3,4,369900.0,12/07/2025,NEWUSER
+1127,24.0,Laki-laki,Jambi,3887000.0,Elektronik,351000.0,4,0,Transfer,Silver,3.3,5,1404000.0,03/06/2025,PROMO10
+1110,31.0,Perempuan,Palembang,7563000.0,Rumah Tangga,270000.0,4,-10,Kartu Kredit,Basic,3.1,2,1026000.0,13/05/2025,NONE
+1248,27.0,Perempuan,Jambi,5476000.0,Olahraga,52000.0,6,5,Transfer,Basic,4.7,5,296400.0,28/10/2025,-
+1235,49.0,Perempuan,Pekanbaru,4475000.0,Olahraga,652000.0,2,15,E-Wallet,Platinum,4.8,5,1108400.0,12/10/2025,-
+1203,41.0,Laki-laki,Pekanbaru,3198000.0,Rumah Tangga,445000.0,5,15,Transfer,Basic,,3,1891200.0,03/09/2025,-
+1079,33.0,P,Bengkulu,16073000.0,Rumah Tangga,166000.0,5,10,E-Wallet,Basic,4.2,3,747000.0,05/04/2025,PROMO10
+1148,21.0,Perempuan,Padang,,Fashion,584000.0,4,10,COD,Gold,4.2,4,2102400.0,28/06/2025,-
+1060,40.0,Laki-laki,,4135000.0,Rumah Tangga,1412000.0,8,5,Kartu Kredit,Silver,3.1,5,10731200.0,13/03/2025,-
+1119,41.0,Laki-laki,Pekanbaru,10201000.0,Kecantikan,303000.0,3,10,E-Wallet,Gold,4.1,1,818100.0,24/05/2025,-
+1007,45.0,Laki laki,jambi,10662000.0,Elektronik,197000.0,4,5,kartu kredit,basic,2.0,2,748600.0,08/01/2025,PROMO10
+1183,23.0,Laki-laki,Palembang,2912000.0,Kecantikan,114000.0,4,5,COD,Gold,3.6,1,433200.0,10/08/2025,NEWUSER
+1031,27.0,P,PADANG,5967000.0,Olahraga,205000.0,3,20,Cash On Delivery,Platinum,4.1,1,492000.0,06/02/2025,PROMO10
+1023,33.0,Laki laki,palembang,4152000.0,Olahraga,315000.0,6,10,e-wallet,platinum,3.5,3,1701000.0,27/01/2025,PROMO10
+1263,18.0,Laki-laki,Padang,8880000.0,Olahraga,140000.0,3,5,Kartu Kredit,Silver,5.0,5,399000.0,15/11/2025,HEMAT
+1057,25.0,Laki-laki,pekan baru,5950000.0,Elektronik,377000.0,4,0,cod,basic,2.5,4,1508000.0,10/03/2025,NONE
+1149,36.0,Perempuan,Jambi,4761000.0,Kecantikan,236000.0,4,5,Kartu Kredit,Basic,3.5,2,896800.0,30/06/2025,PROMO10
+1141,34.0,Perempuan,Padang,7132000.0,Rumah Tangga,298000.0,5,20,Kartu Kredit,Basic,4.3,2,1192000.0,20/06/2025,HEMAT
+1209,36.0,Perempuan,Jambi,6132000.0,,138000.0,2,0,Transfer,Gold,3.8,4,276000.0,11/09/2025,HEMAT
+1278,27.0,Perempuan,Bengkulu,8488000.0,Fashion,61000.0,6,20,Transfer,Basic,5.0,4,292800.0,04/12/2025,HEMAT
+1204,40.0,Laki-laki,Pekanbaru,7730000.0,Olahraga,178000.0,7,0,COD,Basic,3.3,2,1246000.0,05/09/2025,-
+1145,34.0,Laki-laki,Palembang,3336000.0,Kecantikan,205000.0,6,25,COD,Basic,,4,922500.0,25/06/2025,NEWUSER
+1168,47.0,Laki-laki,Padang,8437000.0,Kecantikan,150000.0,2,20,COD,Gold,3.9,2,240000.0,23/07/2025,NEWUSER
+1091,33.0,Laki-laki,Bengkulu,4005000.0,Kecantikan,240000.0,2,20,COD,Silver,3.8,5,384000.0,20/04/2025,HEMAT
+1224,19.0,Perempuan,Jambi,7756000.0,Olahraga,185000.0,4,10,Kartu Kredit,Basic,3.6,5,666000.0,29/09/2025,HEMAT
+1067,31.0,Wanita,pekan baru,6637000.0,Elektronik,110000.0,2,5,Cash On Delivery,basic,3.5,6,209000.0,22/03/2025,-
+1117,32.0,Perempuan,Jambi,12059000.0,Fashion,175000.0,1,15,Kartu Kredit,Gold,3.5,4,148800.0,22/05/2025,HEMAT
+1173,31.0,Perempuan,Pekanbaru,3034000.0,Olahraga,180000.0,6,10,,Silver,3.4,4,972000.0,29/07/2025,-
+1251,22.0,Perempuan,Palembang,6238000.0,Rumah Tangga,654000.0,5,20,Kartu Kredit,Gold,2.3,2,2616000.0,01/11/2025,PROMO10
+1020,21.0,Perempuan ,jambi,5659000.0,Elektronik,122000.0,3,0,e-wallet,gold,4.3,2,366000.0,24/01/2025,-
+1147,22.0,Perempuan,Padang,7076000.0,Elektronik,225000.0,8,20,Transfer,Basic,3.4,3,1440000.0,27/06/2025,HEMAT
+1080,18.0,P,Bengkulu,4170000.0,Olahraga,370000.0,6,0,Transfer,Basic,3.3,3,2220000.0,07/04/2025,NONE
+1298,34.0,Perempuan,Bengkulu,3863000.0,Rumah Tangga,35000000.0,5,25,E-Wallet,Basic,,4,768800.0,28/12/2025,NONE
+1288,37.0,Laki-laki,Jambi,4093000.0,Fashion,50000000.0,3,10,E-Wallet,Basic,3.9,4,1825200.0,16/12/2025,HEMAT
+1073,32.0,Laki-laki,Jambi,11528000.0,Olahraga,158000.0,3,0,Transfer,Basic,4.4,1,474000.0,29/03/2025,HEMAT
+1016,28.0,Laki laki,pekan baru,6057000.0,Olahraga,225000.0,2,25,kartu kredit,basic,4.3,3,337500.0,19/01/2025,-
+1011,,Laki laki,jambi,5440000.0,Elektronik,121000.0,4,25,transfer,silver,3.0,3,363000.0,13/01/2025,-
+1274,32.0,Perempuan,Padang,5437000.0,Elektronik,220000.0,3,5,E-Wallet,Basic,4.6,3,627000.0,29/11/2025,PROMO10
+1239,27.0,Perempuan,Padang,9437000.0,Fashion,982000.0,2,15,Kartu Kredit,Gold,4.8,4,1669400.0,17/10/2025,NEWUSER
+1098,34.0,Perempuan,Palembang,11034000.0,Fashion,347000.0,5,10,COD,Silver,4.4,1,1561500.0,29/04/2025,NONE
+1069,35.0,Perempuan ,Padang,6270000.0,Fashion,187000.0,5,200,Kartu Kredit,Silver,5.0,6,841500.0,24/03/2025,HEMAT
+1241,26.0,Laki-laki,Bengkulu,8739000.0,Olahraga,553000.0,6,20,COD,Basic,6.0,4,2654400.0,20/10/2025,HEMAT
+1038,18.0,Laki laki,jambi,5192000.0,Elektronik,25000000.0,6,10,kartu kredit,basic,3.2,5,691200.0,15/02/2025,HEMAT
+1017,24.0,Pria, Jambi,8155000.0,Elektronik,449000.0,4,0,kartu kredit,platinum,3.7,1,1796000.0,20/01/2025,PROMO10
+1056,39.0,Laki-laki,PADANG,3821000.0,Kecantikan,176000.0,5,0,E-Wallet,Platinum,3.5,3,880000.0,08/03/2025,PROMO10
+1155,34.0,Perempuan,,4726000.0,Fashion,173000.0,4,10,COD,Gold,4.1,3,622800.0,07/07/2025,HEMAT
+1279,33.0,Laki-laki,Bengkulu,3085000.0,Kecantikan,247000.0,2,5,Transfer,Basic,7.0,5,469300.0,05/12/2025,NEWUSER
+1068,40.0,Laki-laki,Jambi,6034000.0,Kecantikan,241000.0,4,25,Transfer,basic,3.4,3,723000.0,23/03/2025,HEMAT
+1112,32.0,Perempuan,Palembang,3617000.0,Fashion,383000.0,5,10,E-Wallet,Gold,4.3,4,1723500.0,16/05/2025,-
+1070,27.0,P,Bengkulu,4237000.0,Elektronik,923000.0,2,15,E-Wallet,Basic,3.9,5,1569100.0,26/03/2025,NONE
+1032,47.0,Wanita,,4007000.0,Elektronik,693000.0,2,15,transfer,gold,3.9,5,1178100.0,07/02/2025,HEMAT
+1184,36.0,Laki-laki,Bengkulu,6575000.0,Fashion,430000.0,4,20,Kartu Kredit,Gold,3.3,4,1376000.0,11/08/2025,NEWUSER
+1158,36.0,Perempuan,Padang,3766000.0,Fashion,67000.0,2,25,COD,Gold,3.6,2,100500.0,11/07/2025,-
+1238,33.0,Perempuan,Palembang,5047000.0,Rumah Tangga,290000.0,3,5,COD,Silver,3.9,4,826500.0,16/10/2025,NONE
+1125,37.0,Laki-laki,Pekanbaru,8022000.0,Rumah Tangga,283000.0,1,5,E-Wallet,Silver,3.9,2,268800.0,31/05/2025,PROMO10
+1019,25.0,L,bengkulu,6942000.0,Olahraga,315000.0,2,0,Cash On Delivery,basic,,5,630000.0,22/01/2025,PROMO10
+1259,36.0,Perempuan,Jambi,7165000.0,Elektronik,217000.0,5,0,Kartu Kredit,Gold,4.5,1,1085000.0,11/11/2025,PROMO10
+1097,34.0,Perempuan,Padang,2776000.0,Fashion,491000.0,3,5,E-Wallet,Silver,4.0,3,1399400.0,27/04/2025,NONE
+1140,22.0,Perempuan,Jambi,5852000.0,Rumah Tangga,368000.0,2,5,Kartu Kredit,Silver,3.2,4,699200.0,19/06/2025,NEWUSER
+1133,24.0,Perempuan,Padang,5315000.0,Rumah Tangga,115000.0,2,15,Transfer,Gold,4.0,4,195500.0,10/06/2025,NEWUSER
+1087,39.0,Laki-laki,Jambi,6997000.0,Elektronik,198000.0,3,25,COD,Silver,3.2,5,445500.0,15/04/2025,-
+1261,25.0,Perempuan,Pekanbaru,6836000.0,Fashion,335000.0,3,0,Transfer,Basic,4.1,4,1005000.0,13/11/2025,HEMAT
+1153,27.0,Laki-laki,Bengkulu,3850000.0,Elektronik,356000.0,4,10,Transfer,Basic,4.2,1,1281600.0,05/07/2025,PROMO10
+1126,50.0,Laki-laki,Jambi,11108000.0,Rumah Tangga,292000.0,3,10,Kartu Kredit,Basic,3.1,1,788400.0,02/06/2025,-
+1262,32.0,Perempuan,Pekanbaru,15267000.0,Fashion,112000.0,2,15,COD,Gold,4.9,3,190400.0,14/11/2025,PROMO10
+1205,21.0,Perempuan,Padang,4477000.0,Kecantikan,384000.0,3,10,Kartu Kredit,Silver,3.3,3,1036800.0,06/09/2025,HEMAT
+1157,47.0,Perempuan,Bengkulu,5718000.0,Elektronik,163000.0,5,20,COD,Basic,4.8,2,652000.0,09/07/2025,HEMAT
+1294,39.0,Perempuan,Pekanbaru,6972000.0,Kecantikan,312000.0,6,15,E-Wallet,Basic,3.9,3,1591200.0,23/12/2025,NONE
+1176,39.0,Laki-laki,Padang,5364000.0,Rumah Tangga,483000.0,8,0,COD,Silver,3.8,2,3864000.0,02/08/2025,NEWUSER
+1194,22.0,Laki-laki,Padang,4072000.0,Rumah Tangga,240000.0,3,15,Transfer,Gold,4.5,4,612000.0,23/08/2025,NEWUSER
+1219,28.0,Perempuan,Padang,6274000.0,,449000.0,1,10,COD,Basic,3.6,3,404100.0,23/09/2025,PROMO10
+1293,5.0,Laki-laki,Pekanbaru,7443000.0,Olahraga,158000.0,2,0,,Gold,3.7,5,316000.0,22/12/2025,HEMAT
+1130,28.0,Perempuan,Jambi,2719000.0,Olahraga,243000.0,2,5,E-Wallet,Basic,4.8,1,461700.0,07/06/2025,PROMO10
+1039,21.0,Laki laki,bengkulu,7225000.0,Elektronik,294000.0,6,20,Ewallet,basic,3.8,2,1411200.0,16/02/2025,PROMO10
+1247,28.0,Perempuan,,7779000.0,Kecantikan,212000.0,3,15,Transfer,Silver,,6,540600.0,27/10/2025,HEMAT
+1178,44.0,Perempuan,Pekanbaru,6902000.0,Fashion,271000.0,4,15,E-Wallet,Platinum,3.7,2,921400.0,04/08/2025,NEWUSER
+1144,33.0,Perempuan,Padang,5764000.0,Elektronik,314000.0,1,10,COD,Silver,3.4,5,282600.0,24/06/2025,NONE
+1113,32.0,Laki-laki,Bengkulu,3008000.0,Fashion,430000.0,5,5,E-Wallet,Silver,4.0,2,2042500.0,17/05/2025,HEMAT
+1177,32.0,Perempuan,Pekanbaru,7777000.0,Elektronik,71000.0,6,10,Kartu Kredit,Silver,5.0,4,383400.0,03/08/2025,NONE
+1118,23.0,Laki-laki,Padang,6321000.0,Rumah Tangga,179000.0,5,10,E-Wallet,Basic,4.1,1,805500.0,23/05/2025,NEWUSER
+1286,18.0,Laki-laki,Padang,6709000.0,Kecantikan,222000.0,2,0,Transfer,Gold,3.4,3,444000.0,13/12/2025,-
+1280,29.0,Perempuan,Bengkulu,10039000.0,Elektronik,503000.0,4,20,Kartu Kredit,Gold,3.6,4,1609600.0,06/12/2025,NEWUSER
+1246,29.0,Laki-laki,Bengkulu,4192000.0,Olahraga,255000.0,3,0,COD,Basic,,4,765000.0,26/10/2025,HEMAT
+1186,38.0,Perempuan,Palembang,3164000.0,Olahraga,382000.0,2,5,COD,Silver,4.3,2,725800.0,14/08/2025,NONE
+1234,27.0,Perempuan,Pekanbaru,3479000.0,Rumah Tangga,160000.0,5,5,Transfer,Silver,4.1,4,760000.0,11/10/2025,NONE
+1003,37.0,Perempuan ,pekan baru,8398000.0,Fashion,73000.0,6,5,transfer,silver,3.7,3,416100.0,03/01/2025,HEMAT
+1116,34.0,Laki-laki,Bengkulu,4284000.0,Olahraga,342000.0,7,10,E-Wallet,Basic,2.9,2,2154600.0,21/05/2025,NEWUSER
+1195,33.0,Laki-laki,Padang,11907000.0,Olahraga,221000.0,5,20,Kartu Kredit,Gold,3.3,1,884000.0,25/08/2025,NONE
+1187,36.0,Perempuan,Jambi,4485000.0,Kecantikan,133000.0,5,25,E-Wallet,Silver,4.0,7,498800.0,15/08/2025,PROMO10
+1121,38.0,Perempuan,Pekanbaru,15167000.0,Fashion,220000.0,4,20,E-Wallet,Basic,4.4,5,704000.0,27/05/2025,NEWUSER
+1223,37.0,Laki-laki,Padang,4453000.0,Olahraga,264000.0,6,0,Transfer,Silver,4.3,5,1584000.0,28/09/2025,NONE
+1268,21.0,Laki-laki,Padang,3812000.0,Rumah Tangga,172000.0,3,15,Transfer,Basic,5.0,2,438600.0,22/11/2025,NONE
+1128,27.0,Perempuan,Pekanbaru,,Elektronik,251000.0,3,10,Kartu Kredit,Basic,4.6,4,677700.0,04/06/2025,-
+1075,18.0,Laki-laki,Bengkulu,15811000.0,Olahraga,620000.0,2,25,Kartu Kredit,Basic,3.9,6,930000.0,01/04/2025,HEMAT
+1030,,L,pekan baru,7961000.0,Kecantikan,137000.0,5,15,e-wallet,gold,3.5,5,582200.0,05/02/2025,PROMO10
+1084,28.0,Perempuan,Pekanbaru,4736000.0,Fashion,152000.0,7,5,E-Wallet,Basic,3.7,4,1010800.0,12/04/2025,NONE
+1257,42.0,Perempuan,Palembang,4818000.0,Elektronik,188000.0,3,10,,Basic,4.0,5,507600.0,08/11/2025,PROMO10
+1108,33.0,Laki-laki,Jambi,5628000.0,Olahraga,221000.0,5,0,Transfer,Platinum,3.9,3,1105000.0,11/05/2025,HEMAT
+1291,30.0,Perempuan,Padang,6196000.0,Rumah Tangga,275000.0,7,15,Kartu Kredit,Basic,5.0,2,1636200.0,20/12/2025,PROMO10
+1166,35.0,Perempuan,Padang,5432000.0,Fashion,273000.0,4,20,E-Wallet,Silver,4.0,5,873600.0,20/07/2025,NEWUSER
+1134,36.0,Laki-laki,Palembang,8287000.0,Kecantikan,212000.0,3,10,Kartu Kredit,Gold,5.0,5,572400.0,11/06/2025,PROMO10
+1283,45.0,Laki-laki,Bengkulu,7977000.0,Kecantikan,102000.0,3,25,Kartu Kredit,Basic,4.9,2,229500.0,10/12/2025,-
+1229,26.0,Perempuan,Pekanbaru,,Olahraga,297000.0,3,25,COD,Basic,4.7,6,668200.0,05/10/2025,NEWUSER
+1066,43.0,Laki-laki,Padang,5009000.0,Olahraga,146000.0,3,5,cod,basic,3.9,2,416100.0,21/03/2025,NONE
+1210,60.0,Perempuan,Palembang,4128000.0,Olahraga,265000.0,3,5,E-Wallet,Basic,4.8,3,755200.0,12/09/2025,-
+1086,28.0,Perempuan,Bengkulu,6420000.0,Kecantikan,266000.0,4,0,Kartu Kredit,Silver,5.0,3,1064000.0,14/04/2025,NONE
+1226,41.0,Perempuan,Pekanbaru,2663000.0,Rumah Tangga,256000.0,3,5,COD,Basic,4.1,7,729600.0,01/10/2025,NONE
+1160,37.0,Laki-laki,,3500000.0,Elektronik,566000.0,8,20,E-Wallet,Basic,2.9,4,3622400.0,13/07/2025,NEWUSER
+1013,34.0,Pria, Jambi,8699000.0,Elektronik,286000.0,40,20,Cash On Delivery,basic,4.9,2,1144000.0,15/01/2025,NONE
+1036,22.0,Perempuan ,pekan baru,5616000.0,Olahraga,120000.0,55,5,kartu kredit,Platinum,4.1,4,570000.0,12/02/2025,-
+1029,27.0,Perempuan ,pekan baru,7946000.0,Olahraga,145000.0,3,15,cod,gold,5.0,5,369800.0,04/02/2025,NEWUSER
+1171,25.0,Perempuan,Jambi,5301000.0,Olahraga,193000.0,4,20,COD,Basic,4.4,4,617600.0,26/07/2025,PROMO10
+1143,,Perempuan,Jambi,2366000.0,Fashion,810000.0,6,0,,Platinum,,2,4860000.0,22/06/2025,NONE
+1255,20.0,Perempuan,Bengkulu,6984000.0,Kecantikan,233000.0,4,15,Kartu Kredit,Silver,3.5,2,792200.0,06/11/2025,-
+1132,33.0,Perempuan,Padang,2397000.0,Elektronik,634000.0,4,25,,Silver,3.2,4,1902000.0,09/06/2025,-
+1181,37.0,Laki-laki,Padang,5664000.0,,400000.0,3,0,COD,Basic,4.3,3,1200000.0,08/08/2025,-
+1052,29.0,P,bengkulu,11654000.0,Rumah Tangga,313000.0,1,10,transfer,basic,5.0,4,281700.0,04/03/2025,-
+1096,20.0,Perempuan,Bengkulu,4858000.0,Fashion,249000.0,3,10,COD,Basic,3.9,4,672300.0,26/04/2025,-
+1220,33.0,Perempuan,Bengkulu,8414000.0,Rumah Tangga,287000.0,3,20,Transfer,Silver,4.2,3,688800.0,24/09/2025,HEMAT
+1179,30.0,Perempuan,Palembang,23981000.0,Fashion,488000.0,3,15,Transfer,Basic,3.7,3,1244400.0,05/08/2025,PROMO10
+1233,32.0,Perempuan,Pekanbaru,5824000.0,Kecantikan,77000.0,4,10,COD,Basic,2.4,2,277200.0,10/10/2025,PROMO10
+1042,33.0,Perempuan ,jambi,6695000.0,Olahraga,266000.0,2,25,Ewallet,basic,2.3,3,399000.0,19/02/2025,NONE
+1090,36.0,Perempuan,Jambi,4628000.0,Rumah Tangga,245000.0,4,15,Transfer,Gold,3.8,2,833000.0,19/04/2025,NONE
+1230,37.0,Perempuan,Palembang,3994000.0,Fashion,379000.0,2,10,COD,Silver,4.6,4,682200.0,06/10/2025,HEMAT
+1137,26.0,Laki-laki,Jambi,12486000.0,Fashion,802000.0,8,20,Kartu Kredit,Basic,4.4,3,5132800.0,15/06/2025,HEMAT
+1027,23.0,Laki laki,bengkulu,10104000.0,Kecantikan,315000.0,1,10,Cash On Delivery,Platinum,4.8,6,283500.0,01/02/2025,NEWUSER
+1007,45.0,Laki laki,jambi,10662000.0,Elektronik,197000.0,4,5,kartu kredit,basic,2.0,2,748600.0,08/01/2025,PROMO10
+1142,42.0,Perempuan,Pekanbaru,5912000.0,Elektronik,305000.0,6,25,E-Wallet,Basic,4.5,4,1372500.0,21/06/2025,PROMO10
+1212,41.0,Perempuan,Palembang,5866000.0,Fashion,206000.0,7,20,Transfer,Silver,3.2,3,1153600.0,14/09/2025,NONE
+1001,36.0,Wanita,PADANG,4132000.0,Fashion,177000.0,6,0,kartu kredit,basic,4.1,6,1062000.0,01/01/2025,NONE
+1292,28.0,Perempuan,Pekanbaru,4840000.0,Elektronik,168000.0,3,0,Kartu Kredit,Basic,3.5,5,504000.0,21/12/2025,NONE
+1281,33.0,Laki-laki,Padang,6987000.0,Olahraga,193000.0,4,20,Transfer,Basic,3.3,5,617600.0,07/12/2025,NEWUSER
+1101,21.0,Laki-laki,Bengkulu,2928000.0,Olahraga,76000.0,4,10,E-Wallet,Gold,3.6,5,273600.0,02/05/2025,NONE
+1193,34.0,Laki-laki,Pekanbaru,6213000.0,Rumah Tangga,295000.0,4,0,COD,Platinum,4.7,4,1180000.0,22/08/2025,PROMO10
+1266,22.0,Perempuan,Pekanbaru,4993000.0,Olahraga,251000.0,2,0,Transfer,Basic,4.2,4,502000.0,19/11/2025,-
+1104,26.0,Laki-laki,Jambi,6128000.0,,608000.0,3,10,Kartu Kredit,Basic,,3,1641600.0,06/05/2025,-
+1172,25.0,Laki-laki,Padang,2130000.0,Olahraga,352000.0,8,10,Kartu Kredit,Basic,5.0,7,2534400.0,28/07/2025,NONE
+1099,32.0,Laki-laki,Padang,5699000.0,Olahraga,586000.0,1,0,Transfer,Basic,4.0,2,586000.0,30/04/2025,HEMAT
+1037,34.0,Wanita,PADANG,4138000.0,Fashion,79000.0,4,20,Ewallet,silver,2.9,6,252800.0,13/02/2025,HEMAT
+1062,31.0,Laki-laki,Jambi,11959000.0,Kecantikan,276000.0,6,10,E-Wallet,Silver,4.5,2,1490400.0,16/03/2025,NEWUSER
+1151,34.0,Laki-laki,Palembang,5833000.0,,181000.0,5,5,Transfer,Basic,3.1,4,859800.0,02/07/2025,NONE
+1250,35.0,Perempuan,Bengkulu,4572000.0,Rumah Tangga,274000.0,3,20,Transfer,Platinum,4.1,2,657600.0,31/10/2025,HEMAT
+1214,37.0,Laki-laki,Jambi,3988000.0,Rumah Tangga,415000.0,3,0,E-Wallet,Platinum,4.4,6,1245000.0,17/09/2025,HEMAT
+1256,28.0,Perempuan,Jambi,4985000.0,Rumah Tangga,222000.0,2,5,COD,Silver,5.0,2,421800.0,07/11/2025,NEWUSER
+1012,28.0,L,bengkulu,9838000.0,Elektronik,242000.0,3,15,e-wallet,basic,3.0,6,617100.0,14/01/2025,NONE
+1002,31.0,Laki laki,pekan baru,4663000.0,Elektronik,413000.0,3,0,cod,gold,3.8,3,1239000.0,02/01/2025,NEWUSER
+1201,35.0,Laki-laki,Pekanbaru,9102000.0,Kecantikan,284000.0,1,15,Kartu Kredit,Basic,4.5,3,241400.0,01/09/2025,NONE
+1276,36.0,Perempuan,Bengkulu,2218000.0,Rumah Tangga,298000.0,6,5,Transfer,Basic,4.5,5,1698600.0,01/12/2025,-
+1028,35.0,Wanita, Jambi,8568000.0,Olahraga,217000.0,3,5,kartu kredit,silver,3.0,5,618400.0,02/02/2025,PROMO10
+1232,34.0,Laki-laki,Palembang,2841000.0,Olahraga,1434000.0,5,5,,Gold,3.3,4,6811500.0,09/10/2025,NONE
+1005,,Laki laki,jambi,5944000.0,Fashion,489000.0,7,15,Cash On Delivery,platinum,4.3,3,2909600.0,05/01/2025,NONE
+1123,43.0,Perempuan,Pekanbaru,5364000.0,Kecantikan,155000.0,2,10,E-Wallet,Basic,4.0,2,279000.0,29/05/2025,-
+1033,32.0,P,jambi,6208000.0,Olahraga,178000.0,2,10,e-wallet,basic,3.4,4,320400.0,08/02/2025,NEWUSER
+1221,51.0,Perempuan,Padang,2831000.0,Rumah Tangga,403000.0,3,15,Kartu Kredit,Basic,5.0,6,1027600.0,25/09/2025,-
+1163,41.0,Perempuan,Padang,4379000.0,Elektronik,234000.0,2,25,Transfer,Basic,3.5,6,351000.0,17/07/2025,HEMAT
+1222,,Laki-laki,Palembang,7662000.0,Olahraga,164000.0,4,0,COD,Basic,4.3,3,656000.0,27/09/2025,PROMO10
+1267,45.0,Laki-laki,Padang,2398000.0,Fashion,506000.0,8,5,Kartu Kredit,Basic,4.2,5,3845600.0,20/11/2025,HEMAT
+1139,39.0,Perempuan,Jambi,2788000.0,Elektronik,148000.0,2,20,Transfer,Basic,3.5,2,236800.0,18/06/2025,-
+1063,23.0,Wanita,PADANG,,Fashion,320000.0,9,5,transfer,basic,2.4,4,2736000.0,17/03/2025,PROMO10
+1216,38.0,Perempuan,Pekanbaru,8429000.0,Rumah Tangga,143000.0,5,10,Transfer,Platinum,3.2,2,643500.0,19/09/2025,-
+1136,44.0,Laki-laki,Pekanbaru,6203000.0,Kecantikan,210000.0,2,0,Transfer,Basic,3.9,4,420000.0,14/06/2025,NEWUSER
+1129,33.0,Perempuan,Jambi,9661000.0,Kecantikan,297000.0,3,10,E-Wallet,Basic,5.0,5,801900.0,05/06/2025,NEWUSER
+1299,39.0,Perempuan,Bengkulu,4913000.0,Fashion,672000.0,3,15,COD,Gold,3.2,5,1713600.0,29/12/2025,HEMAT
+1009,28.0,L,bengkulu,7675000.0,Elektronik,221000.0,3,0,cod,basic,3.0,6,663000.0,10/01/2025,HEMAT
+1071,35.0,Laki-laki,Bengkulu,6067000.0,Kecantikan,790000.0,8,0,Kartu Kredit,Gold,3.5,4,6320000.0,27/03/2025,NONE
+1273,41.0,Perempuan,Jambi,6951000.0,Fashion,151000.0,6,15,COD,Basic,4.3,2,770100.0,28/11/2025,PROMO10
+1065,39.0,Laki-laki,Padang,8185000.0,Olahraga,237000.0,3,15,E-Wallet,basic,3.7,2,604400.0,19/03/2025,NONE
+1045,20.0,Perempuan ,bengkulu,4854000.0,Kecantikan,444000.0,5,10,kartu kredit,gold,4.4,3,1998000.0,23/02/2025,NEWUSER
+1249,46.0,Perempuan,Pekanbaru,7091000.0,Rumah Tangga,329000.0,4,15,E-Wallet,Basic,4.4,3,1118600.0,29/10/2025,NONE
+1157,47.0,Perempuan,Bengkulu,5718000.0,Elektronik,163000.0,5,20,COD,Basic,4.8,2,652000.0,09/07/2025,HEMAT
+1041,38.0,Laki laki, Jambi,,Fashion,395000.0,5,150,kartu kredit,gold,4.5,4,1580000.0,18/02/2025,NONE
+1124,21.0,Perempuan,Bengkulu,9290000.0,Elektronik,285000.0,6,15,Kartu Kredit,Basic,,5,1453500.0,30/05/2025,NEWUSER
+1284,22.0,Perempuan,Bengkulu,16669000.0,Olahraga,75000.0,2,5,Kartu Kredit,Silver,2.9,6,142500.0,11/12/2025,HEMAT
+1217,26.0,Laki-laki,Palembang,7517000.0,Olahraga,330000.0,4,5,Transfer,Silver,5.0,2,1254000.0,20/09/2025,PROMO10
+1154,34.0,Laki-laki,Bengkulu,7528000.0,Rumah Tangga,145000.0,4,10,Kartu Kredit,Gold,4.1,4,522000.0,06/07/2025,NEWUSER
+1024,21.0,Wanita,PADANG,15384000.0,Elektronik,271000.0,1,10,Cash On Delivery,silver,3.7,4,243900.0,29/01/2025,HEMAT
+1269,28.0,Perempuan,Palembang,2585000.0,Olahraga,342000.0,4,0,COD,Gold,3.3,4,1368000.0,23/11/2025,NEWUSER
+1111,,Perempuan,Bengkulu,8265000.0,Olahraga,473000.0,5,25,Transfer,Silver,,4,1773800.0,14/05/2025,HEMAT
+1082,35.0,Perempuan,Palembang,4582000.0,Rumah Tangga,179000.0,2,15,Kartu Kredit,Basic,5.0,5,304300.0,09/04/2025,NEWUSER
+1237,18.0,Perempuan,Jambi,4074000.0,Elektronik,445000.0,3,15,Kartu Kredit,Silver,,2,1134800.0,15/10/2025,NONE
+1208,36.0,Laki-laki,Bengkulu,4067000.0,Elektronik,164000.0,3,10,Transfer,Basic,4.6,4,442800.0,10/09/2025,NEWUSER
+1213,40.0,Laki-laki,Palembang,5388000.0,Rumah Tangga,88000.0,5,25,COD,Basic,4.6,3,330000.0,16/09/2025,PROMO10
+1040,34.0,P,bengkulu,4656000.0,Fashion,265000.0,4,20,e-wallet,silver,2.2,6,848000.0,17/02/2025,NONE
+1254,40.0,Laki-laki,Jambi,6728000.0,Kecantikan,268000.0,8,0,Transfer,Silver,3.6,2,2144000.0,05/11/2025,NONE
+1300,37.0,Perempuan,Pekanbaru,7110000.0,Fashion,182000.0,1,5,COD,Basic,4.4,2,172900.0,31/12/2025,PROMO10
+1270,33.0,Perempuan,Palembang,,Rumah Tangga,1475000.0,5,20,Kartu Kredit,Silver,3.8,3,5900000.0,24/11/2025,PROMO10
+1200,23.0,Laki-laki,Jambi,3220000.0,Kecantikan,407000.0,4,15,COD,Silver,2.8,3,1383800.0,31/08/2025,NONE
+1015,18.0,P,PADANG,10797000.0,Fashion,39000.0,4,0,e-wallet,silver,3.7,2,156000.0,18/01/2025,PROMO10
+1048,40.0,Laki-laki,palembang,3185000.0,Rumah Tangga,361000.0,3,15,kartu kredit,basic,4.2,4,920600.0,27/02/2025,PROMO10
+1095,29.0,Laki-laki,Padang,10201000.0,Kecantikan,133000.0,9,10,E-Wallet,Silver,3.2,4,1077300.0,25/04/2025,HEMAT
+1272,,Perempuan,Pekanbaru,12758000.0,Olahraga,222000.0,7,5,E-Wallet,Platinum,3.3,5,1476300.0,26/11/2025,PROMO10
+1228,23.0,Laki-laki,Bengkulu,6131000.0,Kecantikan,533000.0,6,20,COD,Gold,4.6,6,2558400.0,04/10/2025,PROMO10
+1282,37.0,Perempuan,Bengkulu,4977000.0,Olahraga,164000.0,4,10,E-Wallet,Silver,3.2,5,590400.0,09/12/2025,PROMO10
+1202,36.0,Laki-laki,Palembang,14168000.0,Rumah Tangga,307000.0,4,20,Kartu Kredit,Gold,2.2,5,982400.0,02/09/2025,PROMO10
+1162,38.0,Perempuan,Padang,6096000.0,Elektronik,561000.0,2,10,Kartu Kredit,Basic,3.1,6,1009800.0,16/07/2025,NEWUSER
+1044,30.0,Laki laki,PADANG,4776000.0,Rumah Tangga,169000.0,5,5,transfer,basic,4.0,1,802800.0,22/02/2025,PROMO10
+1218,30.0,Laki-laki,Padang,3865000.0,Fashion,448000.0,5,0,Kartu Kredit,Platinum,2.8,1,2240000.0,22/09/2025,NONE
+1191,28.0,Perempuan,Padang,5979000.0,Kecantikan,274000.0,4,20,Transfer,Silver,3.7,5,876800.0,20/08/2025,PROMO10
+1106,35.0,Laki-laki,Palembang,7941000.0,Olahraga,354000.0,7,5,Kartu Kredit,Silver,2.7,2,2354100.0,08/05/2025,PROMO10
+1054,37.0,Laki-laki,pekan baru,5583000.0,Kecantikan,204000.0,5,20,,Gold,4.1,3,816000.0,06/03/2025,PROMO10
+1002,31.0,Laki laki,pekan baru,4663000.0,Elektronik,413000.0,3,0,cod,gold,3.8,3,1239000.0,02/01/2025,NEWUSER
+1050,18.0,Laki-laki,pekan baru,5451000.0,Elektronik,1201000.0,4,5,kartu kredit,silver,3.5,3,4563800.0,01/03/2025,HEMAT
+1081,30.0,Perempuan,palembang,4112000.0,Fashion,158000.0,2,0,E-Wallet,Basic,4.3,4,316000.0,08/04/2025,NEWUSER
+1206,24.0,Laki-laki,Jambi,4819000.0,Elektronik,194000.0,2,0,COD,Basic,3.5,5,388000.0,07/09/2025,HEMAT
+1035,39.0,P,palembang,9305000.0,Rumah Tangga,267000.0,3,5,transfer,silver,2.8,3,761000.0,11/02/2025,HEMAT
+1264,24.0,Perempuan,Palembang,5181000.0,,162000.0,4,0,Kartu Kredit,Basic,4.0,3,648000.0,17/11/2025,PROMO10
+1092,40.0,Laki-laki,Jambi,7487000.0,Fashion,155000.0,3,25,Kartu Kredit,Gold,2.7,2,348800.0,21/04/2025,-
+1053,27.0,Laki-laki,PADANG,8826000.0,Kecantikan,148000.0,3,0,Kartu Kredit,Platinum,3.8,1,444000.0,05/03/2025,NONE
+1265,,Laki-laki,Bengkulu,10302000.0,Kecantikan,219000.0,4,10,Kartu Kredit,Basic,3.8,5,788400.0,18/11/2025,NEWUSER
+1242,31.0,Perempuan,Jambi,3609000.0,,780000.0,3,10,Transfer,Basic,4.5,4,2106000.0,21/10/2025,HEMAT
+1014,18.0,L,palembang,8652000.0,,195000.0,2,15,Ewallet,silver,3.8,1,331500.0,16/01/2025,NEWUSER
+1089,28.0,Laki-laki,Jambi,,Fashion,307000.0,2,20,E-Wallet,Basic,4.4,7,491200.0,18/04/2025,-
+1167,39.0,Perempuan,Palembang,7910000.0,Fashion,318000.0,7,10,Transfer,Basic,4.1,4,2003400.0,22/07/2025,-
+1121,38.0,Perempuan,Pekanbaru,15167000.0,Fashion,220000.0,4,20,E-Wallet,Basic,4.4,5,704000.0,27/05/2025,NEWUSER
+1135,25.0,Laki-laki,Jambi,11797000.0,Olahraga,255000.0,1,20,Kartu Kredit,Gold,4.4,4,204000.0,13/06/2025,PROMO10
+1296,26.0,Perempuan,Bengkulu,4770000.0,Kecantikan,59000.0,7,25,,Basic,3.9,4,309800.0,26/12/2025,NONE
+1244,39.0,Laki-laki,Jambi,11478000.0,Kecantikan,416000.0,5,10,E-Wallet,Basic,4.4,6,1872000.0,23/10/2025,NEWUSER
+1055,40.0,Laki-laki,bengkulu,,Rumah Tangga,189000.0,3,5,E-Wallet,silver,4.7,6,538600.0,07/03/2025,-
+1051,85.0,Laki-laki,Jambi,6901000.0,Olahraga,263000.0,5,0,transfer,basic,4.1,4,1315000.0,02/03/2025,-
+1175,34.0,Perempuan,Bengkulu,12579000.0,Fashion,611000.0,2,25,E-Wallet,Basic,4.5,3,916500.0,31/07/2025,NEWUSER
+1190,20.0,Laki-laki,Pekanbaru,8922000.0,Rumah Tangga,57000.0,4,15,Transfer,Silver,3.7,5,193800.0,19/08/2025,NONE
+1159,22.0,Perempuan,Jambi,4677000.0,Fashion,411000.0,1,10,E-Wallet,Silver,4.3,4,369900.0,12/07/2025,NEWUSER
+1188,31.0,Laki-laki,Jambi,3688000.0,Fashion,276000.0,3,0,COD,Basic,,5,828000.0,16/08/2025,HEMAT
+1170,,Perempuan,Padang,4630000.0,Kecantikan,121000.0,4,0,Kartu Kredit,Gold,5.0,3,484000.0,25/07/2025,NONE
+1059,35.0,Wanita,Bengkulu,6938000.0,Kecantikan,484000.0,4,15,E-Wallet,Silver,4.7,6,1645600.0,12/03/2025,HEMAT
+1049,35.0,Perempuan ,pekan baru,4343000.0,Elektronik,105000.0,4,15,e-wallet,basic,4.7,2,357000.0,28/02/2025,-
+1236,37.0,Perempuan,Jambi,6129000.0,Rumah Tangga,199000.0,2,25,E-Wallet,Gold,4.7,6,298500.0,14/10/2025,NONE
+1253,49.0,Perempuan,Pekanbaru,10148000.0,,1108000.0,2,10,Kartu Kredit,Silver,4.3,3,1994400.0,03/11/2025,NONE
+1022,30.0,P,,7843000.0,Fashion,172000.0,3,5,kartu kredit,gold,5.0,4,490200.0,26/01/2025,HEMAT
+1161,,Perempuan,Padang,14525000.0,Fashion,93000.0,2,15,Kartu Kredit,Silver,5.0,1,158100.0,14/07/2025,NONE
+1277,34.0,Perempuan,Palembang,6671000.0,Kecantikan,267000.0,4,5,COD,Basic,4.8,1,1014600.0,03/12/2025,NONE
+1192,39.0,Perempuan,Palembang,11678000.0,Fashion,511000.0,2,5,COD,Platinum,4.7,4,970900.0,21/08/2025,NEWUSER
+1258,26.0,Laki-laki,,4939000.0,Rumah Tangga,60000.0,2,5,COD,Silver,4.3,3,114000.0,09/11/2025,NONE
+1150,34.0,Laki-laki,Jambi,3725000.0,Olahraga,58000.0,4,5,COD,Basic,2.9,3,220400.0,01/07/2025,HEMAT
+1131,20.0,Perempuan,Pekanbaru,3523000.0,Kecantikan,527000.0,2,25,COD,Basic,4.2,1,790500.0,08/06/2025,NEWUSER
+1152,35.0,Perempuan,Bengkulu,9222000.0,Rumah Tangga,477000.0,5,15,Kartu Kredit,Silver,2.9,1,2027200.0,03/07/2025,PROMO10
+1100,30.0,Laki-laki,Bengkulu,10473000.0,Olahraga,173000.0,5,10,E-Wallet,Basic,2.9,4,778500.0,01/05/2025,NEWUSER
+1088,35.0,Perempuan,Pekanbaru,13958000.0,Olahraga,349000.0,7,5,Kartu Kredit,Basic,4.6,4,2320800.0,16/04/2025,NONE
+1215,29.0,Laki-laki,Palembang,4628000.0,Olahraga,495000.0,6,25,E-Wallet,Basic,3.7,2,2227500.0,18/09/2025,NONE
+1122,25.0,Perempuan,Palembang,13219000.0,Kecantikan,117000.0,2,15,Kartu Kredit,Gold,3.6,3,198900.0,28/05/2025,NEWUSER
+1095,29.0,Laki-laki,Padang,10201000.0,Kecantikan,133000.0,9,10,E-Wallet,Silver,3.2,4,1077300.0,25/04/2025,HEMAT
+1021,44.0,L,jambi,6268000.0,Elektronik,323000.0,5,10,cod,basic,4.7,4,1453500.0,25/01/2025,NEWUSER
+1189,25.0,Laki-laki,Pekanbaru,12820000.0,Elektronik,83000.0,3,25,COD,Silver,4.9,2,186800.0,17/08/2025,-
+1072,44.0,Perempuan ,Pekanbaru,7507000.0,Rumah Tangga,128000.0,7,10,E-Wallet,Basic,4.0,4,806400.0,28/03/2025,-
+1107,47.0,Laki-laki,Palembang,3711000.0,Fashion,411000.0,1,0,Kartu Kredit,Basic,3.6,2,411000.0,10/05/2025,NONE
+1271,44.0,Laki-laki,Jambi,,Fashion,319000.0,4,0,COD,Silver,3.2,1,1276000.0,25/11/2025,HEMAT
+1103,29.0,Laki-laki,Pekanbaru,6014000.0,Fashion,316000.0,3,20,COD,Basic,4.6,4,758400.0,05/05/2025,HEMAT
